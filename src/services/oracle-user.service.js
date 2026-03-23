@@ -121,7 +121,27 @@ function buildSecurityHeader(actionRequest) {
 </soapenv:Header>`.trim();
 }
 
-async function checkEmployeeExists(externalPayrollID, locationRef) {
+async function getAdditionalEmployeeData(externalPayrollID) {
+    const additionalDataApiUrl = process.env.ADDITIONAL_DATA_API_URL || '';
+    if (!additionalDataApiUrl) {
+        return {};
+    }
+    try {
+        const response = await requestPromise({
+            method: 'GET',
+            url: `${additionalDataApiUrl}?employeeId=${encodeURIComponent(externalPayrollID)}`,
+            headers: { 'Content-Type': 'application/json' }
+        });
+        if (response.statusCode >= 200 && response.statusCode < 300) {
+            return JSON.parse(response.body);
+        }
+    } catch (e) {
+        console.warn(`[WEBHOOK] Warning: Failed to fetch additional data for ${externalPayrollID}`, e.message);
+    }
+    return {};
+}
+
+async function getOracleEmployeeData(externalPayrollID, locationRef) {
     const actionRequest = 'getPortalUserRequest';
     const soapEnvelope = `
 <soapenv:Envelope xmlns:ser="http://net.mymicros/service" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
@@ -145,7 +165,49 @@ ${buildSecurityHeader(actionRequest)}
     });
 
     const body = String(response.body || '');
-    return body.includes('<firstName>') || body.includes('<lastName>');
+    if (!body.includes('<firstName>') && !body.includes('<lastName>')) {
+        return null;
+    }
+
+    const extract = (tag) => {
+        const match = body.match(new RegExp(`<${tag}>(.*?)</${tag}>`, 'i'));
+        return match ? match[1] : '';
+    };
+
+    const dateOfBirthRaw = extract('dateOfBirth');
+    const hireDateRaw = extract('hireDate');
+
+    return {
+        firstName: extract('firstName'),
+        lastName: extract('lastName'),
+        dateOfBirth: dateOfBirthRaw ? dateOfBirthRaw.slice(0, 10) : '',
+        hireDate: hireDateRaw ? hireDateRaw.slice(0, 10) : '',
+        employeeRole: extract('employeeRole'),
+        magCardNumber: extract('magCardNumber'),
+    };
+}
+
+function compareEmployeeData(mapped, oracleData) {
+    if (!oracleData) return true;
+
+    const changes = [];
+    if (safeString(mapped.firstName) !== safeString(oracleData.firstName)) changes.push('firstName');
+    if (safeString(mapped.lastName) !== safeString(oracleData.lastName)) changes.push('lastName');
+    if (safeString(mapped.dateOfBirth) !== safeString(oracleData.dateOfBirth)) changes.push('dateOfBirth');
+    if (safeString(mapped.hireDate) !== safeString(oracleData.hireDate)) changes.push('hireDate');
+    if (safeString(mapped.employeeRole) !== safeString(oracleData.employeeRole)) changes.push('employeeRole');
+    
+    const mappedMag = safeString(mapped.magCardNumber, '0000');
+    const oracleMag = safeString(oracleData.magCardNumber, '0000');
+    if (mappedMag !== oracleMag && !(mappedMag === '0000' && !oracleMag)) {
+        changes.push('magCardNumber');
+    }
+
+    if (changes.length > 0) {
+        console.log(`[WEBHOOK] Differences found for ${mapped.externalPayrollID}:`, changes.join(', '));
+        return true;
+    }
+    return false;
 }
 
 async function upsertOracleEmployee(mapped, action) {
@@ -206,32 +268,26 @@ async function syncOracleUser(payload = {}) {
     const mapped = normalizeIncomingUser(basePayload);
 
     // 2. Obtener datos adicionales del empleado (por ejemplo, equipos, roles, etc.)
-    // --- IMPORTANTE: Aquí debes implementar la lógica para obtener datos faltantes del empleado ---
-    // Por ejemplo, podrías hacer una llamada a otra API interna, base de datos, etc.
-    // const additionalData = await getAdditionalEmployeeData(mapped.externalPayrollID);
-    // Object.assign(mapped, additionalData);
+    const additionalData = await getAdditionalEmployeeData(mapped.externalPayrollID);
+    Object.assign(mapped, additionalData);
 
-    // 3. Obtener datos actuales del empleado en Oracle Labor (no solo existencia)
-    // --- IMPORTANTE: Implementar función que obtenga todos los datos actuales del empleado en Oracle Labor ---
-    // Por ahora, solo se verifica existencia, pero se debe obtener el objeto completo para comparar
-    // const oracleEmployee = await getOracleEmployeeData(mapped.externalPayrollID, mapped.locationRef);
-    // if (!oracleEmployee) { ... }
+    // 3. Obtener datos actuales del empleado en Oracle Labor
+    const oracleEmployee = await getOracleEmployeeData(mapped.externalPayrollID, mapped.locationRef);
+    const exists = !!oracleEmployee;
 
     // 4. Comparar datos completos (payload+adicionales vs Oracle)
-    // --- IMPORTANTE: Implementar función de comparación profunda ---
-    // const hasChanges = compareEmployeeData(mapped, oracleEmployee);
-    // if (!hasChanges) {
-    //     return {
-    //         action: 'noop',
-    //         exists: true,
-    //         mapped,
-    //         oracleStatusCode: 200,
-    //         oracleResponsePreview: 'No changes detected, no update sent to Oracle.',
-    //     };
-    // }
+    const hasChanges = compareEmployeeData(mapped, oracleEmployee);
+    if (exists && !hasChanges) {
+        return {
+            action: 'noop',
+            exists: true,
+            mapped,
+            oracleStatusCode: 200,
+            oracleResponsePreview: 'No changes detected, no update sent to Oracle.',
+        };
+    }
 
     // 5. Si hay cambios o es alta, hacer upsert en Oracle Labor
-    const exists = await checkEmployeeExists(mapped.externalPayrollID, mapped.locationRef);
     const action = exists ? 'modify' : 'create';
     const response = await upsertOracleEmployee(mapped, action);
 

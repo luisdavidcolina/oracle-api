@@ -3,6 +3,378 @@
   "busDt": "2026-03-23",
   "revenueCenters": [
     {
+      "rvcNum": 1,
+      "quarterHours": [
+        {
+          "qtrHrNum": 41,
+          "busHrNum": 10,
+          "dpName": "Morning",
+          "menuItems": [
+            {
+              "miNum": 11009768,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11017010,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11017011,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 11.6,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11019858,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11022748,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11039076,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 5.8,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11041854,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 9.6,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11042520,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 5.45,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11046200,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11057353,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11057354,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11057355,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11057356,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11059715,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 4.9,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11069308,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 3
+            },
+            {
+              "miNum": 11074671,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 4.5,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11094364,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 9.6,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11096091,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 5.1,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11096094,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 5.4,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11104507,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 9.1,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11105593,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 4.7,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11105655,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 5.5,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11116470,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 16.2,
+              "slsCnt": 3
+            },
+            {
+              "miNum": 11119374,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 11.6,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11121493,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11130008,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 10.3,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11133724,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 9.4,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11155712,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11158233,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 5
+            },
+            {
+              "miNum": 11162513,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 2.85,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11177412,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 4.4,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11177415,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 5.7,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11177418,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 6.3,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11177419,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 3.5,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11177422,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 3
+            },
+            {
+              "miNum": 11177423,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 10.4,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11177424,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 5.95,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11177425,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 6.65,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11177430,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11177431,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11177433,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 4.4,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11177434,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11177435,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 13.65,
+              "slsCnt": 3
+            },
+            {
+              "miNum": 11177437,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11177438,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
       "rvcNum": 2,
       "quarterHours": [
         {
@@ -48,6 +420,29 @@
               "otNum": 3,
               "ocNum": 1,
               "slsTtl": 2.85,
+              "slsCnt": 1
+            }
+          ]
+        },
+        {
+          "qtrHrNum": 41,
+          "busHrNum": 10,
+          "dpName": "Morning",
+          "menuItems": [
+            {
+              "miNum": 3,
+              "prcLvlNum": 8,
+              "otNum": 3,
+              "ocNum": 1,
+              "slsTtl": 3.7,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11091892,
+              "prcLvlNum": 8,
+              "otNum": 3,
+              "ocNum": 1,
+              "slsTtl": 0,
               "slsCnt": 1
             }
           ]

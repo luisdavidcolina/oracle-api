@@ -3,6 +3,30 @@
   "busDt": "2026-03-23",
   "revenueCenters": [
     {
+      "rvcNum": 1,
+      "quarterHours": [
+        {
+          "qtrHrNum": 41,
+          "busHrNum": 10,
+          "dpName": "Morning",
+          "netSlsTtl": 192.55,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "chngInGrndTtl": 206.03,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 192.55,
+          "taxCollTtl": 13.48,
+          "chkCnt": 1,
+          "errCorTtl": 18.6,
+          "errCorCnt": 4,
+          "chkOpnTtl": 206.03,
+          "chkOpnCnt": 1,
+          "chkClsdTtl": 206.03,
+          "chkClsdCnt": 1
+        }
+      ]
+    },
+    {
       "rvcNum": 2,
       "quarterHours": [
         {
@@ -23,6 +47,25 @@
           "chkOpnCnt": 2,
           "chkClsdTtl": 0,
           "chkClsdCnt": 0
+        },
+        {
+          "qtrHrNum": 41,
+          "busHrNum": 10,
+          "dpName": "Morning",
+          "netSlsTtl": 3.7,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "chngInGrndTtl": 3.96,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 3.7,
+          "taxCollTtl": 0.26,
+          "chkCnt": 1,
+          "errCorTtl": 4.85,
+          "errCorCnt": 1,
+          "chkOpnTtl": 3.96,
+          "chkOpnCnt": 1,
+          "chkClsdTtl": 23.3,
+          "chkClsdCnt": 3
         }
       ]
     },

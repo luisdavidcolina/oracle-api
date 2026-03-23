@@ -23,6 +23,24 @@
           "chkOpnCnt": 1,
           "chkClsdTtl": 6.58,
           "chkClsdCnt": 1
+        },
+        {
+          "qtrHrNum": 39,
+          "busHrNum": 9,
+          "dpName": "Morning",
+          "netSlsTtl": 0,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 0,
+          "taxCollTtl": 0,
+          "chkCnt": 0,
+          "transCnclTtl": 5.83,
+          "transCnclCnt": 1,
+          "chkOpnTtl": 0,
+          "chkOpnCnt": 0,
+          "chkClsdTtl": 0,
+          "chkClsdCnt": 0
         }
       ]
     },
