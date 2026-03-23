@@ -1,0 +1,36 @@
+[
+  {
+    "locRef": "29402",
+    "name": "zPUR Test Lab",
+    "normalizedName": "zpurtestlab",
+    "matchedLocationKey": "macysponce",
+    "datastreamMatch": true,
+    "ok": false
+  },
+  {
+    "locRef": "4000003",
+    "name": "zPUR PS Test Lab",
+    "normalizedName": "zpurpstestlab",
+    "matchedLocationKey": "macysponce",
+    "datastreamMatch": true,
+    "totalSales": 0,
+    "totalCount": 0,
+    "hasData": false,
+    "published": false,
+    "publishDatastreams": null,
+    "ok": true
+  },
+  {
+    "locRef": "4000002",
+    "name": "zSBUX PUR Lab",
+    "normalizedName": "zsbuxpurlab",
+    "matchedLocationKey": "zsbuxpurlab",
+    "datastreamMatch": false,
+    "totalSales": 0,
+    "totalCount": 0,
+    "hasData": false,
+    "published": false,
+    "publishDatastreams": null,
+    "ok": true
+  }
+]

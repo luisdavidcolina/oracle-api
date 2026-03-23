@@ -1,0 +1,34 @@
+[
+  {
+    "locRef": "29402",
+    "name": "zPUR Test Lab",
+    "normalizedName": "zpurtestlab",
+    "matchedLocationKey": "macysponce",
+    "datastreamMatch": true,
+    "totalSales": 46.65,
+    "totalCount": 96,
+    "hasData": true,
+    "published": true,
+    "publishDatastreams": {
+      "channels": [
+        {
+          "channel": "starbuckscafe",
+          "salesId": 534349,
+          "checksId": 583855,
+          "salesKey": "sales(macysponcestarbuckscafe)",
+          "checksKey": "checks(macysponcestarbuckscafe)",
+          "intervals": 96
+        },
+        {
+          "channel": "ubereats",
+          "salesId": 534351,
+          "checksId": 583856,
+          "salesKey": "sales(macysponceubereats)",
+          "checksKey": "checks(macysponceubereats)",
+          "intervals": 96
+        }
+      ]
+    },
+    "ok": true
+  }
+]

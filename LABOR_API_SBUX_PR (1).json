@@ -1,0 +1,513 @@
+{
+  "info": {
+    "_postman_id": "1d104973-2550-463f-b55b-f84578fde152",
+    "name": "_Labor API Copy",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "25897893",
+    "_collection_link": "https://go.postman.co/collection/25897893-1d104973-2550-463f-b55b-f84578fde152?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "getAllLocations REST",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json",
+            "type": "text"
+          },
+          {
+            "key": "username",
+            "value": "{{apiToken}}",
+            "type": "text"
+          },
+          {
+            "key": "password",
+            "value": "{{apiPassword}}",
+            "type": "text"
+          }
+        ],
+        "url": {
+          "raw": "{{baseUrl}}/rest/services/v1/locations",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "rest",
+            "services",
+            "v1",
+            "locations"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "getAllEmployees REST",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json",
+            "type": "text"
+          },
+          {
+            "key": "username",
+            "value": "{{apiToken}}",
+            "type": "text"
+          },
+          {
+            "key": "password",
+            "value": "{{apiPassword}}",
+            "type": "text"
+          }
+        ],
+        "url": {
+          "raw": "{{baseUrl}}/rest/services/v1/locations/:locationRef/employees?",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "rest",
+            "services",
+            "v1",
+            "locations",
+            ":locationRef",
+            "employees"
+          ],
+          "query": [
+            {
+              "key": "",
+              "value": null
+            }
+          ],
+          "variable": [
+            {
+              "key": "locationRef",
+              "value": "{{locationRef}}"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "getTimecardPunches REST",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json",
+            "type": "text"
+          },
+          {
+            "key": "username",
+            "value": "{{apiToken}}",
+            "type": "text"
+          },
+          {
+            "key": "password",
+            "value": "{{apiPassword}}",
+            "type": "text"
+          }
+        ],
+        "url": {
+          "raw": "{{baseUrl}}/rest/services/v1/locations/:locationRef/timecards/?&startBusinessDate=2022-12-28&endBusinessDate=2023-01-03",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "rest",
+            "services",
+            "v1",
+            "locations",
+            ":locationRef",
+            "timecards",
+            ""
+          ],
+          "query": [
+            {
+              "key": null,
+              "value": null
+            },
+            {
+              "key": "startBusinessDate",
+              "value": "2022-12-28"
+            },
+            {
+              "key": "endBusinessDate",
+              "value": "2023-01-03"
+            }
+          ],
+          "variable": [
+            {
+              "key": "locationRef",
+              "value": "{{locationRef}}"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "getJobs REST",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json",
+            "type": "text"
+          },
+          {
+            "key": "username",
+            "value": "{{apiToken}}",
+            "type": "text"
+          },
+          {
+            "key": "password",
+            "value": "{{apiPassword}}",
+            "type": "text"
+          }
+        ],
+        "url": {
+          "raw": "{{baseUrl}}/rest/services/v1/jobs/getJobs",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "rest",
+            "services",
+            "v1",
+            "jobs",
+            "getJobs"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "getJob REST",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json",
+            "type": "text"
+          },
+          {
+            "key": "username",
+            "value": "{{apiToken}}",
+            "type": "text"
+          },
+          {
+            "key": "password",
+            "value": "{{apiPassword}}",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n  \"oldJobRef\": \"3\"\r\n}"
+        },
+        "url": {
+          "raw": "{{baseUrl}}/rest/services/v1/jobs/getJob",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "rest",
+            "services",
+            "v1",
+            "jobs",
+            "getJob"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "uploadSchedule REST",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json",
+            "type": "text"
+          },
+          {
+            "key": "username",
+            "value": "{{apiToken}}",
+            "type": "text"
+          },
+          {
+            "key": "password",
+            "value": "{{apiPassword}}",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n  \"locationRef\": \"297\",\r\n  \"sched\": [\r\n    {\r\n      \"payrollId\": 1,\r\n      \"startDate\": \"01/05/2023\",\r\n      \"startHour\": 8,\r\n      \"startInterval\": 15,\r\n      \"endDate\": \"01/05/2023\",\r\n      \"endHour\": 14,\r\n      \"endInterval\": 45,\r\n      \"jobRef\": \"4\"\r\n    }\r\n  ]\r\n}"
+        },
+        "url": {
+          "raw": "{{baseUrl}}/rest/services/v1/schedules/upload",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "rest",
+            "services",
+            "v1",
+            "schedules",
+            "upload"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "getEntHREmployee SOAP",
+      "protocolProfileBehavior": {
+        "disabledSystemHeaders": {
+          "content-type": true
+        }
+      },
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "text/xml",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "<soapenv:Envelope xmlns:soapenv=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:ser=\"http://net.mymicros/service\">\r\n   <soapenv:Header\r\n    xmlns:wsa=\"http://www.w3.org/2005/08/addressing\">\r\n    <wsse:Security soapenv:mustUnderstand=\"1\"\r\n        xmlns:wsse=\"http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd\"\r\n        xmlns:wsu=\"http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd\">\r\n        <wsse:UsernameToken wsu:Id=\"UsernameToken-D5B4C1394E66FEE9D015619983318702\">\r\n            <wsse:Username>{{apiToken}}</wsse:Username>\r\n            <wsse:Password Type=\"http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText\">{{apiPassword}}</wsse:Password>\r\n        </wsse:UsernameToken>\r\n    </wsse:Security>\r\n    <wsa:Action>http://net.mymicros/service/labor/getPortalUserRequest</wsa:Action>\r\n    <wsa:ReplyTo>\r\n        <wsa:Address>http://www.w3.org/2005/08/addressing/anonymous</wsa:Address>\r\n    </wsa:ReplyTo>\r\n    <wsa:MessageID>urn:uuid:30cb63df-2a07-428d-b501-097db5906b6e</wsa:MessageID>\r\n    <wsa:To>https://sample.simphony.com:443/labor/labor</wsa:To>\r\n</soapenv:Header>\r\n   <soapenv:Body>\r\n      <ser:getEntHREmployee>\r\n         <!--Optional:-->\r\n         <externalPayrollID>15116085</externalPayrollID>\r\n         <!--Optional:-->\r\n         <locale>\r\n            <!--Optional:-->\r\n            <countryCode></countryCode>\r\n            <!--Optional:-->\r\n            <languageCode></languageCode>\r\n         </locale>\r\n         <!--Optional:-->\r\n         <orgLocationRef>1000</orgLocationRef>\r\n         <!--Optional:-->\r\n         <versionNum></versionNum>\r\n      </ser:getEntHREmployee>\r\n   </soapenv:Body>\r\n</soapenv:Envelope>"
+        },
+        "url": {
+          "raw": "{{baseUrl}}/labor/labor",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "labor",
+            "labor"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "getEntHREmployeeJobRate SOAP",
+      "protocolProfileBehavior": {
+        "disabledSystemHeaders": {
+          "content-type": true
+        }
+      },
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "text/xml",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "<soapenv:Envelope xmlns:ser=\"http://net.mymicros/service\" xmlns:soapenv=\"http://schemas.xmlsoap.org/soap/envelope/\">\r\n    <soapenv:Header xmlns:wsa=\"http://www.w3.org/2005/08/addressing\">\r\n        <wsse:Security soapenv:mustUnderstand=\"1\" xmlns:wsse=\"http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd\" xmlns:wsu=\"http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd\">\r\n            <wsse:UsernameToken wsu:Id=\"UsernameToken-D5B4C1394E66FEE9D015619983318702\">\r\n                <wsse:Username>{{apiToken}}</wsse:Username>\r\n                <wsse:Password Type=\"http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText\">{{apiPassword}}</wsse:Password>\r\n            </wsse:UsernameToken>\r\n        </wsse:Security>\r\n        <wsa:Action>http://net.mymicros/service/labor/getEntHREmployeeJobRateRequest</wsa:Action>\r\n        <wsa:ReplyTo>\r\n            <wsa:Address>http://www.w3.org/2005/08/addressing/anonymous</wsa:Address>\r\n        </wsa:ReplyTo>\r\n        <wsa:MessageID>urn:uuid:30cb63df-2a07-428d-b501-097db5906b6e</wsa:MessageID>\r\n        <wsa:To>https://mtu9-omra.oracleindustry.com/labor/labor</wsa:To>\r\n    </soapenv:Header>\r\n    <soapenv:Body>\r\n        <ser:getEntHREmployeeJobRate>\r\n            <externalPayrollID>999999999</externalPayrollID>\r\n        </ser:getEntHREmployeeJobRate>\r\n    </soapenv:Body>\r\n</soapenv:Envelope>"
+        },
+        "url": {
+          "raw": "{{baseUrl}}/labor/labor",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "labor",
+            "labor"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "getEntHREmployeePOSConfig SOAP",
+      "protocolProfileBehavior": {
+        "disabledSystemHeaders": {
+          "content-type": true
+        }
+      },
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "text/xml",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "<soapenv:Envelope xmlns:ser=\"http://net.mymicros/service\" xmlns:soapenv=\"http://schemas.xmlsoap.org/soap/envelope/\">\r\n    <soapenv:Header xmlns:wsa=\"http://www.w3.org/2005/08/addressing\">\r\n        <wsse:Security soapenv:mustUnderstand=\"1\" xmlns:wsse=\"http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd\" xmlns:wsu=\"http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd\">\r\n            <wsse:UsernameToken wsu:Id=\"UsernameToken-D5B4C1394E66FEE9D015619983318702\">\r\n                <wsse:Username>{{apiToken}}</wsse:Username>\r\n                <wsse:Password Type=\"http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText\">{{apiPassword}}</wsse:Password>\r\n            </wsse:UsernameToken>\r\n        </wsse:Security>\r\n        <wsa:Action>http://net.mymicros/service/labor/getEntHREmployeePOSConfigRequest</wsa:Action>\r\n        <wsa:ReplyTo>\r\n            <wsa:Address>http://www.w3.org/2005/08/addressing/anonymous</wsa:Address>\r\n        </wsa:ReplyTo>\r\n        <wsa:MessageID>urn:uuid:30cb63df-2a07-428d-b501-097db5906b6e</wsa:MessageID>\r\n        <wsa:To>https://mtu9-omra.oracleindustry.com/labor/labor</wsa:To>\r\n    </soapenv:Header>\r\n    <soapenv:Body>\r\n        <ser:getEntHREmployeePOSConfig>\r\n            <externalPayrollID>999999999</externalPayrollID>\r\n        </ser:getEntHREmployeePOSConfig>\r\n    </soapenv:Body>\r\n</soapenv:Envelope>"
+        },
+        "url": {
+          "raw": "{{baseUrl}}/labor/labor",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "labor",
+            "labor"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "CreateEntHREmployee SOAP",
+      "protocolProfileBehavior": {
+        "disabledSystemHeaders": {
+          "content-type": true
+        }
+      },
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "text/xml",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "<soapenv:Envelope xmlns:ser=\"http://net.mymicros/service\" xmlns:soapenv=\"http://schemas.xmlsoap.org/soap/envelope/\">\r\n    <soapenv:Header xmlns:wsa=\"http://www.w3.org/2005/08/addressing\">\r\n        <wsse:Security soapenv:mustUnderstand=\"1\" xmlns:wsse=\"http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd\" xmlns:wsu=\"http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd\">\r\n            <wsse:UsernameToken wsu:Id=\"UsernameToken-D5B4C1394E66FEE9D015619983318702\">\r\n                <wsse:Username>{{apiToken}}</wsse:Username>\r\n                <wsse:Password Type=\"http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText\">{{apiPassword}}</wsse:Password>\r\n            </wsse:UsernameToken>\r\n        </wsse:Security>\r\n\t\t<wsa:Action>http://net.mymicros/service/labor/createEntHREmployeeRequest</wsa:Action>\r\n\t\t<wsa:ReplyTo>\r\n\t\t\t<wsa:Address>http://www.w3.org/2005/08/addressing/anonymous</wsa:Address>\r\n\t\t</wsa:ReplyTo>\r\n\t\t<wsa:MessageID>urn:uuid:30cb63df-2a07-428d-b501-097db5906b6e</wsa:MessageID>\r\n\t\t<wsa:To>https://mtu9-omra.oracleindustry.com/labor/labor</wsa:To>\r\n\t</soapenv:Header>\r\n\t<soapenv:Body>\r\n\t\t<ser:createEntHREmployee>\r\n\t\t\t<employee>\r\n\t\t\t\t<dateOfBirth>1999-01-01T00:00:00+01:00</dateOfBirth>\r\n\t\t\t\t<entHREmployeeJobRates>\r\n\t\t\t\t\t<effectiveFrom>2023-06-14T00:00:00+01:00</effectiveFrom>\r\n\t\t\t\t\t<enterprisePOSRef>2</enterprisePOSRef>\r\n\t\t\t\t\t<externalPayrollID>88889999</externalPayrollID>\r\n\t\t\t\t\t<locationRef>UbikaLC</locationRef>\r\n\t\t\t\t\t<primaryJob>true</primaryJob>\r\n\t\t\t\t\t<regPayRate>1.00</regPayRate>\r\n\t\t\t\t</entHREmployeeJobRates>\r\n\t\t\t\t<externalPayrollID>88889999</externalPayrollID>\r\n\t\t\t\t<firstName>CAJEROTEST3</firstName>\r\n\t\t\t\t<hireDate>2023-05-25T04:00:00+01:00</hireDate>\r\n\t\t\t\t<lastName>CAJEROTEST3</lastName>\r\n                <employeeRolePosref>100</employeeRolePosref>\r\n\t\t\t\t<entHREmployeePOSConfigs>\r\n    \t\t\t\t<orgLocationRef>UbikaLC</orgLocationRef>\r\n                    <employeeClassPOSRef>3</employeeClassPOSRef>\r\n                    <entEmployeePrivilegeID>20144</entEmployeePrivilegeID>\r\n                    <magCardNumber>1122</magCardNumber>\r\n\t\t\t\t\t<externalPayrollID>88889999</externalPayrollID>\r\n\t\t\t\t</entHREmployeePOSConfigs>\r\n                <employeeRole>Cajero*</employeeRole>\r\n                <employeeRoleMasterID>6281658</employeeRoleMasterID>\r\n\t\t\t\t<hireStatus>0</hireStatus>\r\n\t\t\t\t<homeStoreRef>UbikaLC</homeStoreRef>\r\n\t\t\t</employee>\r\n\t\t</ser:createEntHREmployee>\r\n\t</soapenv:Body>\r\n</soapenv:Envelope>"
+        },
+        "url": {
+          "raw": "{{baseUrl}}/labor/labor",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "labor",
+            "labor"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "AddEntHREmployeeJobRates SOAP",
+      "protocolProfileBehavior": {
+        "disabledSystemHeaders": {
+          "content-type": true
+        }
+      },
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "text/xml",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "<soapenv:Envelope xmlns:ser=\"http://net.mymicros/service\" xmlns:soapenv=\"http://schemas.xmlsoap.org/soap/envelope/\">\r\n    <soapenv:Header xmlns:wsa=\"http://www.w3.org/2005/08/addressing\">\r\n        <wsse:Security soapenv:mustUnderstand=\"1\" xmlns:wsse=\"http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd\" xmlns:wsu=\"http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd\">\r\n            <wsse:UsernameToken wsu:Id=\"UsernameToken-D5B4C1394E66FEE9D015619983318702\">\r\n                <wsse:Username>{{apiToken}}</wsse:Username>\r\n                <wsse:Password Type=\"http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText\">{{apiPassword}}</wsse:Password>\r\n            </wsse:UsernameToken>\r\n        </wsse:Security>\r\n        <wsa:Action>http://net.mymicros/service/labor/addEntHREmployeeJobRatesRequest</wsa:Action>\r\n        <wsa:ReplyTo>\r\n            <wsa:Address>http://www.w3.org/2005/08/addressing/anonymous</wsa:Address>\r\n        </wsa:ReplyTo>\r\n        <wsa:MessageID>urn:uuid:30cb63df-2a07-428d-b501-097db5906b6e</wsa:MessageID>\r\n        <wsa:To>https://mtu9-omra.oracleindustry.com/labor/labor</wsa:To>\r\n    </soapenv:Header>\r\n    <soapenv:Body>\r\n        <ser:addEntHREmployeeJobRates>\r\n            <employeeJobRates>\r\n                <effectiveFrom>2022-10-26T00:00:00+01:00</effectiveFrom>\r\n                <enterprisePOSRef>2</enterprisePOSRef>\r\n                <externalPayrollID>BS160</externalPayrollID>\r\n                <locationRef>CRBH</locationRef>\r\n                <regPayRate>4.81</regPayRate>\r\n                <primaryJob>false</primaryJob>\r\n            </employeeJobRates>\r\n        </ser:addEntHREmployeeJobRates>\r\n    </soapenv:Body>\r\n</soapenv:Envelope>"
+        },
+        "url": {
+          "raw": "{{baseUrl}}/labor/labor",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "labor",
+            "labor"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "ModifyEntHREmployeePOSConfig SOAP",
+      "protocolProfileBehavior": {
+        "disabledSystemHeaders": {
+          "content-type": true
+        }
+      },
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "text/xml",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "<soapenv:Envelope xmlns:ser=\"http://net.mymicros/service\" xmlns:soapenv=\"http://schemas.xmlsoap.org/soap/envelope/\">\r\n    <soapenv:Header xmlns:wsa=\"http://www.w3.org/2005/08/addressing\">\r\n        <wsse:Security soapenv:mustUnderstand=\"1\" xmlns:wsse=\"http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd\" xmlns:wsu=\"http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd\">\r\n            <wsse:UsernameToken wsu:Id=\"UsernameToken-D5B4C1394E66FEE9D015619983318702\">\r\n                <wsse:Username>{{apiToken}}</wsse:Username>\r\n                <wsse:Password Type=\"http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText\">{{apiPassword}}</wsse:Password>\r\n            </wsse:UsernameToken>\r\n        </wsse:Security>\r\n        <wsa:Action>http://net.mymicros/service/labor/modifyEntHREmployeePOSConfigRequest</wsa:Action>\r\n        <wsa:ReplyTo>\r\n            <wsa:Address>http://www.w3.org/2005/08/addressing/anonymous</wsa:Address>\r\n        </wsa:ReplyTo>\r\n        <wsa:MessageID>urn:uuid:30cb63df-2a07-428d-b501-097db5906b6e</wsa:MessageID>\r\n        <wsa:To>https://mtu9-omra.oracleindustry.com/labor/labor</wsa:To>\r\n    </soapenv:Header>\r\n    <soapenv:Body>\r\n        <ser:modifyEntHREmployeePOSConfig>\r\n            <employeePOSConfigs>\r\n                <externalPayrollID>888888</externalPayrollID>\r\n                <orgLocationRef>UbikaLC</orgLocationRef>\r\n                <inTraining>false</inTraining>\r\n                <accountDisabled>false</accountDisabled>\r\n                <employeeClassPOSRef>3</employeeClassPOSRef>\r\n                <entEmployeePrivilegeID>20144</entEmployeePrivilegeID>\r\n                <magCardNumber>4321</magCardNumber>          \r\n            </employeePOSConfigs>\r\n        </ser:modifyEntHREmployeePOSConfig>\r\n    </soapenv:Body>\r\n</soapenv:Envelope>"
+        },
+        "url": {
+          "raw": "{{baseUrl}}/labor/labor",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "labor",
+            "labor"
+          ]
+        }
+      },
+      "response": []
+    }
+  ],
+  "event": [
+    {
+      "listen": "prerequest",
+      "script": {
+        "type": "text/javascript",
+        "requests": {},
+        "exec": [
+          ""
+        ]
+      }
+    },
+    {
+      "listen": "test",
+      "script": {
+        "type": "text/javascript",
+        "requests": {},
+        "exec": [
+          ""
+        ]
+      }
+    }
+  ],
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "https://simphony-home.sbx5.oraclerestaurants.com"
+    },
+    {
+      "key": "locationRef",
+      "value": "29402"
+    },
+    {
+      "key": "apiToken",
+      "value": "7dUrTlug8IhW1/Ny1stnIKCINBs8LGFLZ4JZyVyGi8TxHi+VWZtExSHxtgfngQcd3+oV+/i3YBCT08/47awuHg=="
+    },
+    {
+      "key": "apiPassword",
+      "value": "ko0or%5Hu$mm.lD#"
+    }
+  ]
+}

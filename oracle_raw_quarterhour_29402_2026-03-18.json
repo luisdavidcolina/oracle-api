@@ -1,0 +1,28 @@
+{
+  "locRef": "29402",
+  "busDt": "2026-03-18",
+  "revenueCenters": [
+    {
+      "rvcNum": 1,
+      "quarterHours": [
+        {
+          "qtrHrNum": 47,
+          "busHrNum": 11,
+          "dpName": "Lunch",
+          "netSlsTtl": 10.65,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "chngInGrndTtl": 11.32,
+          "nonTxblSlsTtl": 1.15,
+          "txblSlsTtl": 9.5,
+          "taxCollTtl": 0.67,
+          "chkCnt": 1,
+          "chkOpnTtl": 11.32,
+          "chkOpnCnt": 1,
+          "chkClsdTtl": 11.32,
+          "chkClsdCnt": 1
+        }
+      ]
+    }
+  ]
+}

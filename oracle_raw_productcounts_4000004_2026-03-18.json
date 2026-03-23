@@ -1,0 +1,261 @@
+{
+  "locRef": "4000004",
+  "busDt": "2026-03-18",
+  "revenueCenters": [
+    {
+      "rvcNum": 1,
+      "quarterHours": [
+        {
+          "qtrHrNum": 45,
+          "busHrNum": 11,
+          "dpName": "Lunch",
+          "menuItems": [
+            {
+              "miNum": 40,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 41,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 4.15,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 42,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 4.75,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 109891,
+              "prcLvlNum": 16,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 3
+            },
+            {
+              "miNum": 109897,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 3
+            },
+            {
+              "miNum": 109900,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 3
+            },
+            {
+              "miNum": 109920,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 9
+            },
+            {
+              "miNum": 110086,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 7
+            },
+            {
+              "miNum": 121966,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 5.2,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 160150,
+              "prcLvlNum": 16,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 9
+            },
+            {
+              "miNum": 11001832,
+              "prcLvlNum": 16,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 3
+            },
+            {
+              "miNum": 11002665,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 5.15,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11002666,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 5.65,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11010236,
+              "prcLvlNum": 16,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 9
+            },
+            {
+              "miNum": 11024302,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 6.15,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11029735,
+              "prcLvlNum": 16,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 6
+            },
+            {
+              "miNum": 11091892,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 6
+            }
+          ]
+        },
+        {
+          "qtrHrNum": 74,
+          "busHrNum": 18,
+          "dpName": "Evening",
+          "menuItems": [
+            {
+              "miNum": 47,
+              "prcLvlNum": 8,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 5.45,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 109891,
+              "prcLvlNum": 16,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 109920,
+              "prcLvlNum": 9,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 4
+            },
+            {
+              "miNum": 110086,
+              "prcLvlNum": 8,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11029735,
+              "prcLvlNum": 16,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11079227,
+              "prcLvlNum": 8,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 3.05,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11091892,
+              "prcLvlNum": 8,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11096091,
+              "prcLvlNum": 8,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 5.1,
+              "slsCnt": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rvcNum": 4,
+      "quarterHours": [
+        {
+          "qtrHrNum": 52,
+          "busHrNum": 12,
+          "dpName": "Lunch",
+          "menuItems": [
+            {
+              "miNum": 109917,
+              "prcLvlNum": 9,
+              "otNum": 21,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 3
+            },
+            {
+              "miNum": 110086,
+              "prcLvlNum": 1,
+              "otNum": 21,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11150294,
+              "prcLvlNum": 1,
+              "otNum": 21,
+              "ocNum": 1,
+              "slsTtl": 4.8,
+              "slsCnt": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

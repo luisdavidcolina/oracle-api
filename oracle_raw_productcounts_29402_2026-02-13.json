@@ -1,0 +1,1290 @@
+{
+  "locRef": "29402",
+  "busDt": "2026-02-13",
+  "revenueCenters": [
+    {
+      "rvcNum": 1,
+      "quarterHours": [
+        {
+          "qtrHrNum": 62,
+          "busHrNum": 15,
+          "dpName": "Afternoon",
+          "menuItems": [
+            {
+              "miNum": 3,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 3.65,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 39,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 2,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 42,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 14.25,
+              "slsCnt": 3
+            },
+            {
+              "miNum": 47,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 10.8,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 109891,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 7
+            },
+            {
+              "miNum": 109897,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 10
+            },
+            {
+              "miNum": 109900,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 9
+            },
+            {
+              "miNum": 109917,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 6
+            },
+            {
+              "miNum": 109917,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0.95,
+              "slsCnt": 4
+            },
+            {
+              "miNum": 109920,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 16
+            },
+            {
+              "miNum": 110086,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 21,
+              "prepCost": 21
+            },
+            {
+              "miNum": 110570,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 4.75,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 121967,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 5.55,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 126198,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 10.9,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 135609,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 2,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 135613,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 1,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 160150,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 3
+            },
+            {
+              "miNum": 177838,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 5
+            },
+            {
+              "miNum": 178667,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 6
+            },
+            {
+              "miNum": 179992,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 12
+            },
+            {
+              "miNum": 189840,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 3
+            },
+            {
+              "miNum": 11001828,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11001832,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11002666,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 1,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11002672,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 1,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11010236,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 11
+            },
+            {
+              "miNum": 11029017,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 1,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11029018,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 1,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11029735,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 22
+            },
+            {
+              "miNum": 11029959,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11039085,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 12,
+              "slsCnt": 5
+            },
+            {
+              "miNum": 11042135,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11044803,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 9.6,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11074671,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11076386,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 1,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11083122,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 5.1,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11088406,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11088971,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 4
+            },
+            {
+              "miNum": 11089351,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 5.4,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11091892,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 28
+            },
+            {
+              "miNum": 11096091,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 8.16,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11116470,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11126876,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 1,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11126901,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11126906,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11130832,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 3
+            },
+            {
+              "miNum": 11130836,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11131114,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11137873,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 1,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11137899,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11137906,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11151123,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 5
+            },
+            {
+              "miNum": 11155712,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11162513,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11176918,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 1,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11176919,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 2,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11177412,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11177417,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11177418,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11177424,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11177432,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11177437,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11177438,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11177440,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            }
+          ]
+        },
+        {
+          "qtrHrNum": 63,
+          "busHrNum": 15,
+          "dpName": "Afternoon",
+          "menuItems": [
+            {
+              "miNum": 39,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 1,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 42,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 14.25,
+              "slsCnt": 3
+            },
+            {
+              "miNum": 47,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 10.8,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 95,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 2,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 109891,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 6
+            },
+            {
+              "miNum": 109897,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 4
+            },
+            {
+              "miNum": 109900,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 9
+            },
+            {
+              "miNum": 109917,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 19
+            },
+            {
+              "miNum": 109920,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 8
+            },
+            {
+              "miNum": 110086,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 16,
+              "prepCost": 16
+            },
+            {
+              "miNum": 126198,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 5.45,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 148690,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 2,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 154162,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 3
+            },
+            {
+              "miNum": 178667,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 189840,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 8
+            },
+            {
+              "miNum": 11001828,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11002656,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 1,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11010236,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 6
+            },
+            {
+              "miNum": 11029018,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 1,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11029735,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 32
+            },
+            {
+              "miNum": 11029959,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11037822,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11039076,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 3,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11039085,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 7.2,
+              "slsCnt": 3
+            },
+            {
+              "miNum": 11088406,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11091892,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 20
+            },
+            {
+              "miNum": 11126859,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 4.75,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11126901,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11126906,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11137873,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 1,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11137899,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11137906,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11150295,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 4,
+              "slsCnt": 4
+            },
+            {
+              "miNum": 11151123,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 3
+            },
+            {
+              "miNum": 11167575,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 2.75,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11176919,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 1,
+              "slsCnt": 1
+            }
+          ]
+        },
+        {
+          "qtrHrNum": 64,
+          "busHrNum": 15,
+          "dpName": "Afternoon",
+          "menuItems": [
+            {
+              "miNum": 39,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 1,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 42,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 4.75,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 95,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 1,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 109891,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 109897,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 4
+            },
+            {
+              "miNum": 109900,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 4
+            },
+            {
+              "miNum": 109917,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 8
+            },
+            {
+              "miNum": 109920,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 3
+            },
+            {
+              "miNum": 110086,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 5,
+              "prepCost": 5
+            },
+            {
+              "miNum": 178667,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11002669,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 5.55,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11010236,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 3
+            },
+            {
+              "miNum": 11029735,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 11
+            },
+            {
+              "miNum": 11031226,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11042135,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11091892,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 9
+            },
+            {
+              "miNum": 11096091,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 4.08,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11096094,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11105593,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11126876,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 2,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11126901,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11126906,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11137873,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 1,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11137899,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11137906,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11150295,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 2,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11177425,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            }
+          ]
+        },
+        {
+          "qtrHrNum": 66,
+          "busHrNum": 16,
+          "dpName": "Afternoon",
+          "menuItems": [
+            {
+              "miNum": 109900,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11029735,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11068713,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11091892,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11130832,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11130836,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11150295,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 1,
+              "slsCnt": 1
+            }
+          ]
+        },
+        {
+          "qtrHrNum": 68,
+          "busHrNum": 16,
+          "dpName": "Afternoon",
+          "menuItems": [
+            {
+              "miNum": 109897,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 109900,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 109917,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 4
+            },
+            {
+              "miNum": 110086,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1,
+              "prepCost": 1
+            },
+            {
+              "miNum": 11029735,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 4
+            },
+            {
+              "miNum": 11042135,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11056562,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 8.2,
+              "slsCnt": 4
+            },
+            {
+              "miNum": 11074671,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 3
+            },
+            {
+              "miNum": 11091892,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 3
+            },
+            {
+              "miNum": 11130832,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11130836,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11137873,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 1,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11137899,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11137906,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11150295,
+              "prcLvlNum": 8,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 2,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11152869,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 4
+            },
+            {
+              "miNum": 11158233,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11177420,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 5
+            },
+            {
+              "miNum": 11177421,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 3
+            },
+            {
+              "miNum": 11177430,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11177432,
+              "prcLvlNum": 0,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

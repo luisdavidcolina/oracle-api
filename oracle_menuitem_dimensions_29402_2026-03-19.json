@@ -1,0 +1,4007 @@
+[
+  {
+    "num": 2,
+    "name": "TL PIKE PLACE",
+    "name2": "Cafe del Dia Pike Place Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 3,
+    "name": "GR PIKE PLACE",
+    "name2": "Cafe del Dia Pike Place Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 20,
+    "name": "SOLO Espresso",
+    "name2": "Espresso",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 23,
+    "famGrpName": "Espresso Espresso Shot"
+  },
+  {
+    "num": 21,
+    "name": "Double Espresso",
+    "name2": "Espresso Doble",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 23,
+    "famGrpName": "Espresso Espresso Shot"
+  },
+  {
+    "num": 25,
+    "name": "SOLO Macchiato",
+    "name2": "Espresso Macchiato Solo",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 23,
+    "famGrpName": "Espresso Espresso Shot"
+  },
+  {
+    "num": 26,
+    "name": "Double Macchiato",
+    "name2": "Espresso Macchiato Doble",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 23,
+    "famGrpName": "Espresso Espresso Shot"
+  },
+  {
+    "num": 30,
+    "name": "SOLO Con Panna",
+    "name2": "Espresso Con Panna Solo",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 23,
+    "famGrpName": "Espresso Espresso Shot"
+  },
+  {
+    "num": 31,
+    "name": "Double Con Panna",
+    "name2": "Espresso Con Panna Doble",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 23,
+    "famGrpName": "Espresso Espresso Shot"
+  },
+  {
+    "num": 37,
+    "name": "SH Cappuccino",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 21,
+    "famGrpName": "Espresso Cappuccino"
+  },
+  {
+    "num": 38,
+    "name": "TL Cappuccino",
+    "name2": "Cappuccino Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 21,
+    "famGrpName": "Espresso Cappuccino"
+  },
+  {
+    "num": 39,
+    "name": "GR Cappuccino",
+    "name2": "Cappuccino Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 21,
+    "famGrpName": "Espresso Cappuccino"
+  },
+  {
+    "num": 40,
+    "name": "SH Latte",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 41,
+    "name": "TL Latte",
+    "name2": "Latte Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 42,
+    "name": "GR Latte",
+    "name2": "Latte Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 43,
+    "name": "GR Iced Tea Refill",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 51,
+    "famGrpName": "Tea Iced Tea"
+  },
+  {
+    "num": 45,
+    "name": "SH Mocha",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 28,
+    "famGrpName": "Espresso Mocha"
+  },
+  {
+    "num": 46,
+    "name": "TL Mocha",
+    "name2": "Mocha Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 28,
+    "famGrpName": "Espresso Mocha"
+  },
+  {
+    "num": 47,
+    "name": "GR Mocha",
+    "name2": "Mocha Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 28,
+    "famGrpName": "Espresso Mocha"
+  },
+  {
+    "num": 76,
+    "name": "TL Filter Refill",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 93,
+    "name": "SH Americano",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 19,
+    "famGrpName": "Espresso Americano"
+  },
+  {
+    "num": 94,
+    "name": "TL Americano",
+    "name2": "Americano Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 19,
+    "famGrpName": "Espresso Americano"
+  },
+  {
+    "num": 95,
+    "name": "GR Americano",
+    "name2": "Americano Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 19,
+    "famGrpName": "Espresso Americano"
+  },
+  {
+    "num": 106510,
+    "name": "GR Iced Brewed Coffee",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 109836,
+    "name": "Decaf",
+    "name2": "Decaf",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 149,
+    "famGrpName": "Espresso Shot Option"
+  },
+  {
+    "num": 109839,
+    "name": "Ristretto",
+    "name2": "Ristretto",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 149,
+    "famGrpName": "Espresso Shot Option"
+  },
+  {
+    "num": 109840,
+    "name": "Skimmed/Nonfat Milk",
+    "name2": "Skimmed/Nonfat Milk",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 207,
+    "famGrpName": "Milk Base Option"
+  },
+  {
+    "num": 109841,
+    "name": "Semi Skimmed Milk/2% Milk",
+    "name2": "Semi Skimmed Milk/2% Milk",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 207,
+    "famGrpName": "Milk Base Option"
+  },
+  {
+    "num": 109883,
+    "name": "Double Cup",
+    "name2": "Double Cup",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 173,
+    "famGrpName": "Preparation Serveware Option"
+  },
+  {
+    "num": 109889,
+    "name": "Extra Hot",
+    "name2": "Extra Hot",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 175,
+    "famGrpName": "Preparation Temperature Option"
+  },
+  {
+    "num": 109891,
+    "name": "Whipped Cream",
+    "name2": "Whipped Cream",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 133,
+    "famGrpName": "Confection Sweet Add-On Option"
+  },
+  {
+    "num": 109894,
+    "name": "Sugar",
+    "name2": "Sugar",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 137,
+    "famGrpName": "Confection Sweetener Option"
+  },
+  {
+    "num": 109897,
+    "name": "Ice",
+    "name2": "Ice",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 189,
+    "famGrpName": "Water Ice Option"
+  },
+  {
+    "num": 109898,
+    "name": "Light Ice",
+    "name2": "Light Ice",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 189,
+    "famGrpName": "Water Ice Option"
+  },
+  {
+    "num": 109899,
+    "name": "No Ice",
+    "name2": "No Ice",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 189,
+    "famGrpName": "Water Ice Option"
+  },
+  {
+    "num": 109900,
+    "name": "Foam",
+    "name2": "Foam",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 209,
+    "famGrpName": "Hot Foam Preparation Option"
+  },
+  {
+    "num": 109901,
+    "name": "Light Foam",
+    "name2": "Light Foam",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 175,
+    "famGrpName": "Preparation Temperature Option"
+  },
+  {
+    "num": 109902,
+    "name": "No Foam",
+    "name2": "No Foam",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 209,
+    "famGrpName": "Hot Foam Preparation Option"
+  },
+  {
+    "num": 109903,
+    "name": "Wet",
+    "name2": "Wet",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 174,
+    "famGrpName": "Preparation Serving Option"
+  },
+  {
+    "num": 109904,
+    "name": "Dry",
+    "name2": "Dry",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 174,
+    "famGrpName": "Preparation Serving Option"
+  },
+  {
+    "num": 109917,
+    "name": "Vanilla Syrup",
+    "name2": "Vanilla Syrup",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 138,
+    "famGrpName": "Confection Syrup Option"
+  },
+  {
+    "num": 109918,
+    "name": "Hazelnut Syrup",
+    "name2": "Hazelnut Syrup",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 138,
+    "famGrpName": "Confection Syrup Option"
+  },
+  {
+    "num": 109920,
+    "name": "Mocha Sauce",
+    "name2": "Mocha Sauce",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 135,
+    "famGrpName": "Confection Sweet Sauce Option"
+  },
+  {
+    "num": 110018,
+    "name": "Fine (Espresso)",
+    "name2": "Fine (Espresso)",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 210,
+    "famGrpName": "Preparation Grind Option"
+  },
+  {
+    "num": 110019,
+    "name": "Medium (Pour Over)",
+    "name2": "Medium (Pour Over)",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 210,
+    "famGrpName": "Preparation Grind Option"
+  },
+  {
+    "num": 110024,
+    "name": "Medium (Coffee Brewer)",
+    "name2": "Medium (Coffee Brewer)",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 210,
+    "famGrpName": "Preparation Grind Option"
+  },
+  {
+    "num": 110025,
+    "name": "Coarse (Cafetiere)",
+    "name2": "Coarse (Cafetiere)",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 210,
+    "famGrpName": "Preparation Grind Option"
+  },
+  {
+    "num": 110086,
+    "name": "Whole Milk",
+    "name2": "Whole Milk",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 207,
+    "famGrpName": "Milk Base Option"
+  },
+  {
+    "num": 110090,
+    "name": "Extra Foam",
+    "name2": "Extra Foam",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 172,
+    "famGrpName": "Preparation Method Option"
+  },
+  {
+    "num": 110237,
+    "name": "Room",
+    "name2": "Room",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 174,
+    "famGrpName": "Preparation Serving Option"
+  },
+  {
+    "num": 110240,
+    "name": "No Room",
+    "name2": "No Room",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 174,
+    "famGrpName": "Preparation Serving Option"
+  },
+  {
+    "num": 110241,
+    "name": "Extra Room",
+    "name2": "Extra Room",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 174,
+    "famGrpName": "Preparation Serving Option"
+  },
+  {
+    "num": 110246,
+    "name": "Extra Ice",
+    "name2": "Extra Ice",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 189,
+    "famGrpName": "Water Ice Option"
+  },
+  {
+    "num": 110563,
+    "name": "TL Iced Americano",
+    "name2": "Iced Americano Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 19,
+    "famGrpName": "Espresso Americano"
+  },
+  {
+    "num": 110564,
+    "name": "GR Iced Americano",
+    "name2": "Iced Americano Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 19,
+    "famGrpName": "Espresso Americano"
+  },
+  {
+    "num": 110566,
+    "name": "TL Iced Mocha",
+    "name2": "Iced Mocha Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 28,
+    "famGrpName": "Espresso Mocha"
+  },
+  {
+    "num": 110567,
+    "name": "GR Iced Mocha",
+    "name2": "Iced Mocha Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 28,
+    "famGrpName": "Espresso Mocha"
+  },
+  {
+    "num": 110569,
+    "name": "TL Iced Latte",
+    "name2": "Iced Latte Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 110570,
+    "name": "GR Iced Latte",
+    "name2": "Iced Latte Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 112073,
+    "name": "Cinnamon Powder",
+    "name2": "Cinnamon Powder",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 133,
+    "famGrpName": "Confection Sweet Add-On Option"
+  },
+  {
+    "num": 112074,
+    "name": "Vanilla Powder",
+    "name2": "Vanilla Powder",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 133,
+    "famGrpName": "Confection Sweet Add-On Option"
+  },
+  {
+    "num": 113135,
+    "name": "Soy Milk",
+    "name2": "Soy Milk",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 207,
+    "famGrpName": "Milk Base Option"
+  },
+  {
+    "num": 116482,
+    "name": "VT Iced Latte",
+    "name2": "Iced Latte Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 116483,
+    "name": "VT Iced Mocha",
+    "name2": "Iced Mocha Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 28,
+    "famGrpName": "Espresso Mocha"
+  },
+  {
+    "num": 116484,
+    "name": "VT Iced Americano",
+    "name2": "Iced Americano Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 19,
+    "famGrpName": "Espresso Americano"
+  },
+  {
+    "num": 121617,
+    "name": "SH Filter Refill",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 121618,
+    "name": "GR Filter Refill",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 121966,
+    "name": "VT Latte",
+    "name2": "Latte Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 121967,
+    "name": "VT Mocha",
+    "name2": "Mocha Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 28,
+    "famGrpName": "Espresso Mocha"
+  },
+  {
+    "num": 121969,
+    "name": "VT Americano",
+    "name2": "Americano Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 19,
+    "famGrpName": "Espresso Americano"
+  },
+  {
+    "num": 121971,
+    "name": "VT Cappuccino",
+    "name2": "Cappuccino Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 21,
+    "famGrpName": "Espresso Cappuccino"
+  },
+  {
+    "num": 126196,
+    "name": "SH Caramel Macchiato",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 27,
+    "famGrpName": "Espresso Macchiato"
+  },
+  {
+    "num": 126197,
+    "name": "TL Caramel Macchiato",
+    "name2": "Caramel Macchiato Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 27,
+    "famGrpName": "Espresso Macchiato"
+  },
+  {
+    "num": 126198,
+    "name": "GR Caramel Macchiato",
+    "name2": "Caramel Macchiato Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 27,
+    "famGrpName": "Espresso Macchiato"
+  },
+  {
+    "num": 126199,
+    "name": "VT Caramel Macchiato",
+    "name2": "Caramel Macchiato Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 27,
+    "famGrpName": "Espresso Macchiato"
+  },
+  {
+    "num": 128641,
+    "name": "TL Classic Hot Chocolate",
+    "name2": "Chocolate Caliente Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 15,
+    "famGrpName": "Cocoa Hot Chocolate"
+  },
+  {
+    "num": 128642,
+    "name": "GR Classic Hot Chocolate",
+    "name2": "Chocolate Caliente Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 15,
+    "famGrpName": "Cocoa Hot Chocolate"
+  },
+  {
+    "num": 135608,
+    "name": "TL Chai Tea Latte",
+    "name2": "Chai Latte Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 53,
+    "famGrpName": "Tea Latte"
+  },
+  {
+    "num": 135609,
+    "name": "GR Chai Tea Latte",
+    "name2": "Chai Latte Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 53,
+    "famGrpName": "Tea Latte"
+  },
+  {
+    "num": 135612,
+    "name": "TL Iced Chai Tea Latte",
+    "name2": "Iced Chai Latte Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 53,
+    "famGrpName": "Tea Latte"
+  },
+  {
+    "num": 135613,
+    "name": "GR Iced Chai Tea Latte",
+    "name2": "Iced Chai Latte Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 53,
+    "famGrpName": "Tea Latte"
+  },
+  {
+    "num": 135800,
+    "name": "Sugar Free Vanilla Syrup",
+    "name2": "Sugar Free Vanilla Syrup",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 138,
+    "famGrpName": "Confection Syrup Option"
+  },
+  {
+    "num": 142689,
+    "name": "Add Tea Bag",
+    "name2": "Add Tea Bag",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 184,
+    "famGrpName": "Tea Sachet Option"
+  },
+  {
+    "num": 148081,
+    "name": "COFFEE TRAVELER",
+    "name2": "Coffee Traveler",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 148688,
+    "name": "SH White Mocha",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 28,
+    "famGrpName": "Espresso Mocha"
+  },
+  {
+    "num": 148689,
+    "name": "TL White Mocha",
+    "name2": "Mocha Blanco Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 28,
+    "famGrpName": "Espresso Mocha"
+  },
+  {
+    "num": 148690,
+    "name": "GR White Mocha",
+    "name2": "Mocha Blanco Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 28,
+    "famGrpName": "Espresso Mocha"
+  },
+  {
+    "num": 148691,
+    "name": "VT White Mocha",
+    "name2": "Mocha Blanco Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 28,
+    "famGrpName": "Espresso Mocha"
+  },
+  {
+    "num": 154162,
+    "name": "Caramel Syrup",
+    "name2": "Caramel Syrup",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 138,
+    "famGrpName": "Confection Syrup Option"
+  },
+  {
+    "num": 155346,
+    "name": "VT Iced Caramel Macchiato",
+    "name2": "Iced Caramel Macchiato Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 27,
+    "famGrpName": "Espresso Macchiato"
+  },
+  {
+    "num": 155347,
+    "name": "GR Iced Caramel Macchiato",
+    "name2": "Iced Caramel Macchiato Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 27,
+    "famGrpName": "Espresso Macchiato"
+  },
+  {
+    "num": 155349,
+    "name": "TL Iced Caramel Macchiato",
+    "name2": "Iced Caramel Macchiato Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 27,
+    "famGrpName": "Espresso Macchiato"
+  },
+  {
+    "num": 160150,
+    "name": "Frappuccino Chips",
+    "name2": "Frappuccino Chips",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 133,
+    "famGrpName": "Confection Sweet Add-On Option"
+  },
+  {
+    "num": 168477,
+    "name": "VT Chai Tea Latte",
+    "name2": "Chai Latte Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 53,
+    "famGrpName": "Tea Latte"
+  },
+  {
+    "num": 168490,
+    "name": "VT Iced Chai Tea Latte",
+    "name2": "Iced Chai Latte Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 53,
+    "famGrpName": "Tea Latte"
+  },
+  {
+    "num": 177838,
+    "name": "Simple Syrup",
+    "name2": "Classic Syrup",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 138,
+    "famGrpName": "Confection Syrup Option"
+  },
+  {
+    "num": 178658,
+    "name": "No Water",
+    "name2": "No Water",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 190,
+    "famGrpName": "Water Option"
+  },
+  {
+    "num": 178667,
+    "name": "Water",
+    "name2": "Water",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 190,
+    "famGrpName": "Water Option"
+  },
+  {
+    "num": 179992,
+    "name": "Chai",
+    "name2": "Chai",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 182,
+    "famGrpName": "Tea Concentrate Option"
+  },
+  {
+    "num": 179996,
+    "name": "Custom Syrup/Generic for Deliverect",
+    "name2": " ",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 174,
+    "famGrpName": "Preparation Serving Option"
+  },
+  {
+    "num": 181585,
+    "name": "Peppermint Syrup",
+    "name2": "Peppermint Syrup",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 138,
+    "famGrpName": "Confection Syrup Option"
+  },
+  {
+    "num": 182030,
+    "name": "TL Vanilla Frappuccino ",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 30,
+    "famGrpName": "Frappuccino Coffee Frappuccino"
+  },
+  {
+    "num": 182035,
+    "name": "GR Vanilla Frappuccino ",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 30,
+    "famGrpName": "Frappuccino Coffee Frappuccino"
+  },
+  {
+    "num": 183455,
+    "name": "Light Room",
+    "name2": "Light Room",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 172,
+    "famGrpName": "Preparation Method Option"
+  },
+  {
+    "num": 183787,
+    "name": "Strawberry Sauce",
+    "name2": "Strawberry Sauce",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 135,
+    "famGrpName": "Confection Sweet Sauce Option"
+  },
+  {
+    "num": 186842,
+    "name": "Splenda",
+    "name2": "Splenda",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 137,
+    "famGrpName": "Confection Sweetener Option"
+  },
+  {
+    "num": 187368,
+    "name": "Heavy Cream",
+    "name2": "Heavy Cream",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 143,
+    "famGrpName": "Dairy Milk Option"
+  },
+  {
+    "num": 187680,
+    "name": "GR Blended Strawberrry Lemonade",
+    "name2": "Frutilla Frozen Lemonade Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 48,
+    "famGrpName": "Refreshment Refreshers"
+  },
+  {
+    "num": 188986,
+    "name": "Double Blended",
+    "name2": "Double Blended",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 174,
+    "famGrpName": "Preparation Serving Option"
+  },
+  {
+    "num": 189840,
+    "name": "White Chocolate Mocha Sauce",
+    "name2": "White Chocolate Mocha Sauce",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 135,
+    "famGrpName": "Confection Sweet Sauce Option"
+  },
+  {
+    "num": 190205,
+    "name": "Ask Me",
+    "name2": "Ask Me",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 174,
+    "famGrpName": "Preparation Serving Option"
+  },
+  {
+    "num": 204198,
+    "name": "Warming",
+    "name2": " ",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 175,
+    "famGrpName": "Preparation Temperature Option"
+  },
+  {
+    "num": 1087695,
+    "name": "TL Skinny Vanilla Latte",
+    "name2": "Skinny Vainilla Latte Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 1087697,
+    "name": "GR Skinny Vanilla Latte",
+    "name2": "Skinny Vainilla Latte Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 1087699,
+    "name": "VT Skinny Vanilla Latte",
+    "name2": "Skinny Vainilla Latte Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 1206669,
+    "name": "GR Iced Brewed Refill",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11001828,
+    "name": "Caramel Drizzle",
+    "name2": "Caramel Drizzle",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 133,
+    "famGrpName": "Confection Sweet Add-On Option"
+  },
+  {
+    "num": 11001832,
+    "name": "Mocha Drizzle",
+    "name2": "Mocha Drizzle",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 133,
+    "famGrpName": "Confection Sweet Add-On Option"
+  },
+  {
+    "num": 11002139,
+    "name": "Whole Milk",
+    "name2": "Splash Cold Whole Milk Creamer",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 143,
+    "famGrpName": "Dairy Milk Option"
+  },
+  {
+    "num": 11002158,
+    "name": "Heavy Cream",
+    "name2": "Splash Cold Heavy Cream",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 143,
+    "famGrpName": "Dairy Milk Option"
+  },
+  {
+    "num": 11002163,
+    "name": "TL Iced Tea Refill",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 51,
+    "famGrpName": "Tea Iced Tea"
+  },
+  {
+    "num": 11002655,
+    "name": "TL Caramel Frappuccino",
+    "name2": "Caramel Frappuccino Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 30,
+    "famGrpName": "Frappuccino Coffee Frappuccino"
+  },
+  {
+    "num": 11002656,
+    "name": "GR Caramel Frappuccino",
+    "name2": "Caramel Frappuccino Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 30,
+    "famGrpName": "Frappuccino Coffee Frappuccino"
+  },
+  {
+    "num": 11002660,
+    "name": "GR Coffee Frappuccino",
+    "name2": "Coffee Frappuccino Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 30,
+    "famGrpName": "Frappuccino Coffee Frappuccino"
+  },
+  {
+    "num": 11002662,
+    "name": "TL Espresso Frapp",
+    "name2": "Espresso Frappuccino Alto ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 30,
+    "famGrpName": "Frappuccino Coffee Frappuccino"
+  },
+  {
+    "num": 11002663,
+    "name": "GR Espresso Frapp",
+    "name2": "Espresso Frappuccino Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 30,
+    "famGrpName": "Frappuccino Coffee Frappuccino"
+  },
+  {
+    "num": 11002665,
+    "name": "TL Java Chip Frappuccino",
+    "name2": "Java Chip Frappuccino Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 30,
+    "famGrpName": "Frappuccino Coffee Frappuccino"
+  },
+  {
+    "num": 11002666,
+    "name": "GR Java Chip Frappuccino",
+    "name2": "Java Chip Frappuccino Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 30,
+    "famGrpName": "Frappuccino Coffee Frappuccino"
+  },
+  {
+    "num": 11002668,
+    "name": "TL Mocha Frappuccino",
+    "name2": "Mocha Frappuccino Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 30,
+    "famGrpName": "Frappuccino Coffee Frappuccino"
+  },
+  {
+    "num": 11002669,
+    "name": "GR Mocha Frappuccino",
+    "name2": "Mocha Frappuccino Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 30,
+    "famGrpName": "Frappuccino Coffee Frappuccino"
+  },
+  {
+    "num": 11002671,
+    "name": "TL White Mocha Frappuccino",
+    "name2": "Mocha Blanco Frappuccino Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 30,
+    "famGrpName": "Frappuccino Coffee Frappuccino"
+  },
+  {
+    "num": 11002672,
+    "name": "GR White Mocha Frappuccino",
+    "name2": "Mocha Blanco Frappuccino Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 30,
+    "famGrpName": "Frappuccino Coffee Frappuccino"
+  },
+  {
+    "num": 11002674,
+    "name": "TL Chai Crm Frappuccino",
+    "name2": "Chai Cream Frappuccino Alto ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 31,
+    "famGrpName": "Frappuccino Creme Frappuccino"
+  },
+  {
+    "num": 11002675,
+    "name": "GR Chai Crm Frappuccino",
+    "name2": "Chai Cream Frappuccino Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 31,
+    "famGrpName": "Frappuccino Creme Frappuccino"
+  },
+  {
+    "num": 11002677,
+    "name": "TL Double Chocolaty Cream Chip Frappuccino",
+    "name2": "Java Chips Cream Frappuccino Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 31,
+    "famGrpName": "Frappuccino Creme Frappuccino"
+  },
+  {
+    "num": 11002678,
+    "name": "GR Double Chocolaty Cream Chip Frappuccino",
+    "name2": "Java Chips Cream Frappuccino Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 31,
+    "famGrpName": "Frappuccino Creme Frappuccino"
+  },
+  {
+    "num": 11002683,
+    "name": "TL Strawberry Crm Frappuccino",
+    "name2": "Frutilla Cream Frappuccino Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 31,
+    "famGrpName": "Frappuccino Creme Frappuccino"
+  },
+  {
+    "num": 11002684,
+    "name": "GR Strawberry Crm Frappuccino",
+    "name2": "Frutilla Cream Frappuccino Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 31,
+    "famGrpName": "Frappuccino Creme Frappuccino"
+  },
+  {
+    "num": 11002686,
+    "name": "TL Vanilla Crm Frappuccino",
+    "name2": "Vainilla Cream Frappuccino Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 31,
+    "famGrpName": "Frappuccino Creme Frappuccino"
+  },
+  {
+    "num": 11002687,
+    "name": "GR Vanilla Crm Frappuccino",
+    "name2": "Vainilla Cream Frappuccino Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 31,
+    "famGrpName": "Frappuccino Creme Frappuccino"
+  },
+  {
+    "num": 11005820,
+    "name": "GR Earl Grey Tea",
+    "name2": "Te Earl Grey Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 52,
+    "famGrpName": "Tea Steeped Tea"
+  },
+  {
+    "num": 11005824,
+    "name": "GR Chai Tea",
+    "name2": "Te Chai Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 52,
+    "famGrpName": "Tea Steeped Tea"
+  },
+  {
+    "num": 11005832,
+    "name": "GR Emperor's Clouds & Mist Tea",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 52,
+    "famGrpName": "Tea Steeped Tea"
+  },
+  {
+    "num": 11009768,
+    "name": "VIA Italian",
+    "name2": " ",
+    "majGrpNum": 4,
+    "majGrpName": "At Home",
+    "famGrpNum": 3,
+    "famGrpName": "At Home Coffee Packaged Coffee"
+  },
+  {
+    "num": 11009932,
+    "name": "VT Espresso Frapp",
+    "name2": "Espresso Frappuccino Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 30,
+    "famGrpName": "Frappuccino Coffee Frappuccino"
+  },
+  {
+    "num": 11009933,
+    "name": "VT Caramel Frappuccino",
+    "name2": "Caramel Frappuccino Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 30,
+    "famGrpName": "Frappuccino Coffee Frappuccino"
+  },
+  {
+    "num": 11009983,
+    "name": "VT Mocha Frappuccino",
+    "name2": "Mocha Frappuccino Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 30,
+    "famGrpName": "Frappuccino Coffee Frappuccino"
+  },
+  {
+    "num": 11010050,
+    "name": "VT Vanilla Crm Frappuccino",
+    "name2": "Vainilla Cream Frappuccino Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 31,
+    "famGrpName": "Frappuccino Creme Frappuccino"
+  },
+  {
+    "num": 11010051,
+    "name": "VT Chai Crm Frappuccino",
+    "name2": "Chai Cream Frappuccino Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 31,
+    "famGrpName": "Frappuccino Creme Frappuccino"
+  },
+  {
+    "num": 11010052,
+    "name": "VT Strawberry Crm Frappuccino",
+    "name2": "Frutilla Cream Frappuccino Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 31,
+    "famGrpName": "Frappuccino Creme Frappuccino"
+  },
+  {
+    "num": 11010236,
+    "name": "Add Frappuccino Roast ",
+    "name2": "Add Frappuccino Roast ",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 151,
+    "famGrpName": "Espresso Frappuccino Roast Option"
+  },
+  {
+    "num": 11016401,
+    "name": "VT Classic Hot Chocolate",
+    "name2": "Chocolate Caliente Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 15,
+    "famGrpName": "Cocoa Hot Chocolate"
+  },
+  {
+    "num": 11017010,
+    "name": "Edb 250g Wb 12/Cs Pike Place R",
+    "name2": " ",
+    "majGrpNum": 4,
+    "majGrpName": "At Home",
+    "famGrpNum": 3,
+    "famGrpName": "At Home Coffee Packaged Coffee"
+  },
+  {
+    "num": 11017011,
+    "name": "Ver 250g Wb 12/Cs Caffe Verona",
+    "name2": " ",
+    "majGrpNum": 4,
+    "majGrpName": "At Home",
+    "famGrpNum": 3,
+    "famGrpName": "At Home Coffee Packaged Coffee"
+  },
+  {
+    "num": 11017015,
+    "name": "House Blend WB 250 gr ",
+    "name2": " ",
+    "majGrpNum": 4,
+    "majGrpName": "At Home",
+    "famGrpNum": 3,
+    "famGrpName": "At Home Coffee Packaged Coffee"
+  },
+  {
+    "num": 11017024,
+    "name": "Esp 250g Wb 12/Cs Espresso",
+    "name2": " ",
+    "majGrpNum": 4,
+    "majGrpName": "At Home",
+    "famGrpNum": 3,
+    "famGrpName": "At Home Coffee Packaged Coffee"
+  },
+  {
+    "num": 11017043,
+    "name": "GR English Breakfast Tea",
+    "name2": "Te English Breakfast Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 52,
+    "famGrpName": "Tea Steeped Tea"
+  },
+  {
+    "num": 11017049,
+    "name": "GR Mint Citrus Green Tea",
+    "name2": "Te Mint Citrus Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 52,
+    "famGrpName": "Tea Steeped Tea"
+  },
+  {
+    "num": 11017060,
+    "name": "GR Hibiscus Tea",
+    "name2": "Te Hibiscus Blend Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 52,
+    "famGrpName": "Tea Steeped Tea"
+  },
+  {
+    "num": 11017064,
+    "name": "GR Camomile Tea",
+    "name2": "Te Chamomille Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 52,
+    "famGrpName": "Tea Steeped Tea"
+  },
+  {
+    "num": 11017420,
+    "name": "VT White Mocha Frappuccino",
+    "name2": "Mocha Blanco Frappuccino Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 30,
+    "famGrpName": "Frappuccino Coffee Frappuccino"
+  },
+  {
+    "num": 11017595,
+    "name": "VT Iced White Mocha",
+    "name2": "Iced Mocha Blanco Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 28,
+    "famGrpName": "Espresso Mocha"
+  },
+  {
+    "num": 11019856,
+    "name": "Sum 250g Wb 12/Cs Sumatra",
+    "name2": "Sumatra WB 250 gr",
+    "majGrpNum": 4,
+    "majGrpName": "At Home",
+    "famGrpNum": 3,
+    "famGrpName": "At Home Coffee Packaged Coffee"
+  },
+  {
+    "num": 11019857,
+    "name": "Clg 250g Wb 12/Cs Colombia",
+    "name2": " ",
+    "majGrpNum": 4,
+    "majGrpName": "At Home",
+    "famGrpNum": 3,
+    "famGrpName": "At Home Coffee Packaged Coffee"
+  },
+  {
+    "num": 11019858,
+    "name": "Gua 250g Wb 12/Cs Guatemala",
+    "name2": " ",
+    "majGrpNum": 4,
+    "majGrpName": "At Home",
+    "famGrpNum": 3,
+    "famGrpName": "At Home Coffee Packaged Coffee"
+  },
+  {
+    "num": 11019859,
+    "name": "Ken 250g Wb 12/Cs Kenya",
+    "name2": " ",
+    "majGrpNum": 4,
+    "majGrpName": "At Home",
+    "famGrpNum": 3,
+    "famGrpName": "At Home Coffee Packaged Coffee"
+  },
+  {
+    "num": 11022191,
+    "name": "Dried fruits (oatmeal)",
+    "name2": " ",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 133,
+    "famGrpName": "Confection Sweet Add-On Option"
+  },
+  {
+    "num": 11022201,
+    "name": "Nut Medley (oatmeal)",
+    "name2": " ",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 133,
+    "famGrpName": "Confection Sweet Add-On Option"
+  },
+  {
+    "num": 11022203,
+    "name": "Brown Sugar (oatmeal)",
+    "name2": " ",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 133,
+    "famGrpName": "Confection Sweet Add-On Option"
+  },
+  {
+    "num": 11022748,
+    "name": "VIA Pike Place",
+    "name2": " ",
+    "majGrpNum": 4,
+    "majGrpName": "At Home",
+    "famGrpNum": 3,
+    "famGrpName": "At Home Coffee Packaged Coffee"
+  },
+  {
+    "num": 11024302,
+    "name": "VT Java Chip Frappuccino",
+    "name2": "Java Chip Frappuccino Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 30,
+    "famGrpName": "Frappuccino Coffee Frappuccino"
+  },
+  {
+    "num": 11024304,
+    "name": "VT Double Chocolaty Cream Chip Frappuccino",
+    "name2": "Creme Java Chips Frappucino Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 31,
+    "famGrpName": "Frappuccino Creme Frappuccino"
+  },
+  {
+    "num": 11029017,
+    "name": "TL Caramel Ribbon Crunch Frappuccino",
+    "name2": "Caramel Ribbon Crunch Frappuccino Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 30,
+    "famGrpName": "Frappuccino Coffee Frappuccino"
+  },
+  {
+    "num": 11029018,
+    "name": "GR Caramel Ribbon Crunch Frappuccino",
+    "name2": "Caramel Ribbon Crunch Frappuccino Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 30,
+    "famGrpName": "Frappuccino Coffee Frappuccino"
+  },
+  {
+    "num": 11029735,
+    "name": "Signature Espresso",
+    "name2": "Signature Espresso",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 149,
+    "famGrpName": "Espresso Shot Option"
+  },
+  {
+    "num": 11029959,
+    "name": "Caramel Sugar",
+    "name2": "Caramel Sugar",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 133,
+    "famGrpName": "Confection Sweet Add-On Option"
+  },
+  {
+    "num": 11031226,
+    "name": "Oatmeal",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 70,
+    "famGrpName": "Breakfast Cereal"
+  },
+  {
+    "num": 11031623,
+    "name": "Komodo Decaf WB 250 gr",
+    "name2": " ",
+    "majGrpNum": 4,
+    "majGrpName": "At Home",
+    "famGrpNum": 3,
+    "famGrpName": "At Home Coffee Packaged Coffee"
+  },
+  {
+    "num": 11035110,
+    "name": "GR Iced Black Tea",
+    "name2": "Iced Black Tea Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 51,
+    "famGrpName": "Tea Iced Tea"
+  },
+  {
+    "num": 11035160,
+    "name": "TL Iced Green Tea",
+    "name2": "Iced Green Tea Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 51,
+    "famGrpName": "Tea Iced Tea"
+  },
+  {
+    "num": 11035161,
+    "name": "GR Iced Green Tea",
+    "name2": "Iced Green Tea Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 51,
+    "famGrpName": "Tea Iced Tea"
+  },
+  {
+    "num": 11035167,
+    "name": "GR Iced Hibiscus Tea",
+    "name2": "Shaken Passion Tea Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 51,
+    "famGrpName": "Tea Iced Tea"
+  },
+  {
+    "num": 11035175,
+    "name": "GR Iced Black Tea Lemonade",
+    "name2": "Iced Black Lemon Tea Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 51,
+    "famGrpName": "Tea Iced Tea"
+  },
+  {
+    "num": 11035185,
+    "name": "GR Iced Green Tea Lemonade",
+    "name2": "Iced Green Lemon Tea Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 51,
+    "famGrpName": "Tea Iced Tea"
+  },
+  {
+    "num": 11035191,
+    "name": "GR Iced Hibiscus Tea Lemonade",
+    "name2": "Shaken Hibiscus Lemonade Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 51,
+    "famGrpName": "Tea Iced Tea"
+  },
+  {
+    "num": 11035248,
+    "name": "Powded Sugar",
+    "name2": " ",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 133,
+    "famGrpName": "Confection Sweet Add-On Option"
+  },
+  {
+    "num": 11037822,
+    "name": "Birthday Cake Pop",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 58,
+    "famGrpName": "Bakery Cake Pop"
+  },
+  {
+    "num": 11039076,
+    "name": "Banana Loaf",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 57,
+    "famGrpName": "Bakery Cake"
+  },
+  {
+    "num": 11039085,
+    "name": "Chocolate Cake Pop",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 58,
+    "famGrpName": "Bakery Cake Pop"
+  },
+  {
+    "num": 11039887,
+    "name": "GR Hot White Chocolate",
+    "name2": "Chocolate Blanco Caliente Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 15,
+    "famGrpName": "Cocoa Hot Chocolate"
+  },
+  {
+    "num": 11039971,
+    "name": "Half & Half",
+    "name2": "Half & Half",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 143,
+    "famGrpName": "Dairy Milk Option"
+  },
+  {
+    "num": 11041854,
+    "name": "Reduce Fat Turkey Bacon Sandwich",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 69,
+    "famGrpName": "Breakfast Sandwich"
+  },
+  {
+    "num": 11042135,
+    "name": "Coconut Milk",
+    "name2": "Coconut Milk",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 207,
+    "famGrpName": "Milk Base Option"
+  },
+  {
+    "num": 11042137,
+    "name": "Add Coconut Milk Creamer",
+    "name2": "Splash Cold Coconut Milk Creamer",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 143,
+    "famGrpName": "Dairy Milk Option"
+  },
+  {
+    "num": 11042520,
+    "name": "Tomato & Mozzarella Panini",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 82,
+    "famGrpName": "Lunch Sandwich"
+  },
+  {
+    "num": 11043410,
+    "name": "VT Iced Brewed Refill",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11043412,
+    "name": "VT Iced Tea Refill",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 51,
+    "famGrpName": "Tea Iced Tea"
+  },
+  {
+    "num": 11044803,
+    "name": "GR Cold Brew",
+    "name2": "Cold Brew Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 17,
+    "famGrpName": "Coffee Cold Brew"
+  },
+  {
+    "num": 11045287,
+    "name": "Add Green Tea",
+    "name2": "Add Green Tea",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 181,
+    "famGrpName": "Tea Infusion Option"
+  },
+  {
+    "num": 11045293,
+    "name": "Add Black Tea",
+    "name2": "Add Black Tea",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 181,
+    "famGrpName": "Tea Infusion Option"
+  },
+  {
+    "num": 11046200,
+    "name": "PB Chocolate Kind Bar",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 101,
+    "famGrpName": "Snack Bar"
+  },
+  {
+    "num": 11047168,
+    "name": "VT Flat White",
+    "name2": "Flat White Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 24,
+    "famGrpName": "Espresso Flat White"
+  },
+  {
+    "num": 11047169,
+    "name": "GR Flat White",
+    "name2": "Flat White Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 24,
+    "famGrpName": "Espresso Flat White"
+  },
+  {
+    "num": 11047170,
+    "name": "TL Flat White",
+    "name2": "Flat White Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 24,
+    "famGrpName": "Espresso Flat White"
+  },
+  {
+    "num": 11047171,
+    "name": "SH Flat White",
+    "name2": "Flat White Corto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 24,
+    "famGrpName": "Espresso Flat White"
+  },
+  {
+    "num": 11051930,
+    "name": "GR Steamed Milk",
+    "name2": "Leche vaporizada Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 35,
+    "famGrpName": "Milk Beverage Milk"
+  },
+  {
+    "num": 11056562,
+    "name": "Vanilla Almond Biscotti",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 60,
+    "famGrpName": "Bakery Cookie"
+  },
+  {
+    "num": 11057314,
+    "name": "SH Latte Macchiato",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 27,
+    "famGrpName": "Espresso Macchiato"
+  },
+  {
+    "num": 11057315,
+    "name": "TL Latte Macchiato",
+    "name2": "Latte Macchiato Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 27,
+    "famGrpName": "Espresso Macchiato"
+  },
+  {
+    "num": 11057316,
+    "name": "GR Latte Macchiato",
+    "name2": "Latte Macchiato Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 27,
+    "famGrpName": "Espresso Macchiato"
+  },
+  {
+    "num": 11057324,
+    "name": "VT Latte Macchiato",
+    "name2": "Latte Macchiato Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 27,
+    "famGrpName": "Espresso Macchiato"
+  },
+  {
+    "num": 11057350,
+    "name": "Teavana English Breakfast Tea",
+    "name2": " ",
+    "majGrpNum": 4,
+    "majGrpName": "At Home",
+    "famGrpNum": 7,
+    "famGrpName": "At Home Tea Packaged Tea"
+  },
+  {
+    "num": 11057352,
+    "name": "Teavana Hibiscus",
+    "name2": " ",
+    "majGrpNum": 4,
+    "majGrpName": "At Home",
+    "famGrpNum": 3,
+    "famGrpName": "At Home Coffee Packaged Coffee"
+  },
+  {
+    "num": 11057353,
+    "name": "Té Emperor C&M Retail",
+    "name2": " ",
+    "majGrpNum": 4,
+    "majGrpName": "At Home",
+    "famGrpNum": 3,
+    "famGrpName": "At Home Coffee Packaged Coffee"
+  },
+  {
+    "num": 11057354,
+    "name": "Teavana Honey Citrus Mint ",
+    "name2": " ",
+    "majGrpNum": 4,
+    "majGrpName": "At Home",
+    "famGrpNum": 7,
+    "famGrpName": "At Home Tea Packaged Tea"
+  },
+  {
+    "num": 11057355,
+    "name": "Teavana Youthberry",
+    "name2": " ",
+    "majGrpNum": 4,
+    "majGrpName": "At Home",
+    "famGrpNum": 7,
+    "famGrpName": "At Home Tea Packaged Tea"
+  },
+  {
+    "num": 11057356,
+    "name": "Teavana chai Tea Box",
+    "name2": " ",
+    "majGrpNum": 4,
+    "majGrpName": "At Home",
+    "famGrpNum": 7,
+    "famGrpName": "At Home Tea Packaged Tea"
+  },
+  {
+    "num": 11059715,
+    "name": "Plain Madeline",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 60,
+    "famGrpName": "Bakery Cookie"
+  },
+  {
+    "num": 11064831,
+    "name": "GR Youthberry Tea",
+    "name2": "Te Youthberry Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 52,
+    "famGrpName": "Tea Steeped Tea"
+  },
+  {
+    "num": 11067204,
+    "name": "Add Lemonade",
+    "name2": "Add Lemonade",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 138,
+    "famGrpName": "Confection Syrup Option"
+  },
+  {
+    "num": 11068713,
+    "name": "Almond Milk",
+    "name2": "Almond Milk",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 207,
+    "famGrpName": "Milk Base Option"
+  },
+  {
+    "num": 11068714,
+    "name": "Almond Milk - Creamer",
+    "name2": "Splash Cold Almond Milk Creamer",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 143,
+    "famGrpName": "Dairy Milk Option"
+  },
+  {
+    "num": 11068850,
+    "name": "Stevia",
+    "name2": "Stevia",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 137,
+    "famGrpName": "Confection Sweetener Option"
+  },
+  {
+    "num": 11069308,
+    "name": "Ethos Water 700ML",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 45,
+    "famGrpName": "Ready-to-Drink Water"
+  },
+  {
+    "num": 11074671,
+    "name": "Marshmellow Bar",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 55,
+    "famGrpName": "Bakery Bar"
+  },
+  {
+    "num": 11076386,
+    "name": "GR Nitro Cold Brew",
+    "name2": "Nitro Cold Brew Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 17,
+    "famGrpName": "Coffee Cold Brew"
+  },
+  {
+    "num": 11077301,
+    "name": "Vanilla Sweet Cream",
+    "name2": "Vanilla Sweet Cream",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 140,
+    "famGrpName": "Dairy Cold Foam Option"
+  },
+  {
+    "num": 11078708,
+    "name": "GR Vanilla Sweet Cream Cold Brew",
+    "name2": "Cold Brew Vainilla Sweet Cream Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 17,
+    "famGrpName": "Coffee Cold Brew"
+  },
+  {
+    "num": 11079227,
+    "name": "Lemon Loaf",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 57,
+    "famGrpName": "Bakery Cake"
+  },
+  {
+    "num": 11083122,
+    "name": "Butter Croissant",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 62,
+    "famGrpName": "Bakery Laminated Pastry"
+  },
+  {
+    "num": 11083123,
+    "name": "Chocolate Croissant",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 62,
+    "famGrpName": "Bakery Laminated Pastry"
+  },
+  {
+    "num": 11083579,
+    "name": "Cheese Danish",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 62,
+    "famGrpName": "Bakery Laminated Pastry"
+  },
+  {
+    "num": 11086846,
+    "name": "Oat",
+    "name2": "Oat",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 207,
+    "famGrpName": "Milk Base Option"
+  },
+  {
+    "num": 11088406,
+    "name": "Double Chocolate Chunk Brownie",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 55,
+    "famGrpName": "Bakery Bar"
+  },
+  {
+    "num": 11088969,
+    "name": "GR Matcha Green Tea Latte",
+    "name2": "Matcha Latte Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 53,
+    "famGrpName": "Tea Latte"
+  },
+  {
+    "num": 11088971,
+    "name": "Matcha Tea Powder",
+    "name2": "Matcha Tea Powder",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 183,
+    "famGrpName": "Tea Powder Option"
+  },
+  {
+    "num": 11089350,
+    "name": "GR Iced Matcha Green Tea Latte",
+    "name2": "Iced Matcha Latte Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 53,
+    "famGrpName": "Tea Latte"
+  },
+  {
+    "num": 11089351,
+    "name": "VT Iced Matcha Green Tea Latte",
+    "name2": "Iced Matcha Latte Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 53,
+    "famGrpName": "Tea Latte"
+  },
+  {
+    "num": 11089388,
+    "name": "TL Matcha Crm Frappuccino",
+    "name2": "Creme Matcha Frappuccino Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 31,
+    "famGrpName": "Frappuccino Creme Frappuccino"
+  },
+  {
+    "num": 11089389,
+    "name": "GR Matcha Crm Frappuccino",
+    "name2": "Creme Matcha Frappuccino Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 31,
+    "famGrpName": "Frappuccino Creme Frappuccino"
+  },
+  {
+    "num": 11089390,
+    "name": "VT Matcha Crm Frappuccino",
+    "name2": "Creme Matcha Frappuccino Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 31,
+    "famGrpName": "Frappuccino Creme Frappuccino"
+  },
+  {
+    "num": 11091207,
+    "name": "Cinnamon Coffee Cake",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 57,
+    "famGrpName": "Bakery Cake"
+  },
+  {
+    "num": 11091892,
+    "name": "Starbucks Cup",
+    "name2": "Starbucks Cup",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 173,
+    "famGrpName": "Preparation Serveware Option"
+  },
+  {
+    "num": 11092418,
+    "name": "TL Strawberry Acai Lemonade ",
+    "name2": "Frutilla Acai Refresher Lemonade Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 48,
+    "famGrpName": "Refreshment Refreshers"
+  },
+  {
+    "num": 11092419,
+    "name": "GR Strawberry Acai Lemonade ",
+    "name2": "Frutilla Acai Refresher Lemonade Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 48,
+    "famGrpName": "Refreshment Refreshers"
+  },
+  {
+    "num": 11092431,
+    "name": "GR Mango DragonFruit Lemonade Refresher",
+    "name2": "Mango Pitaya Lemonade Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 48,
+    "famGrpName": "Refreshment Refreshers"
+  },
+  {
+    "num": 11094364,
+    "name": "Sausage And Cheddar Sandwich",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 69,
+    "famGrpName": "Breakfast Sandwich"
+  },
+  {
+    "num": 11096091,
+    "name": "Bacon Gouda Sandwich",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 69,
+    "famGrpName": "Breakfast Sandwich"
+  },
+  {
+    "num": 11096094,
+    "name": "Double Smoked Bacon & Cheddar",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 69,
+    "famGrpName": "Breakfast Sandwich"
+  },
+  {
+    "num": 11096204,
+    "name": "Add Cold Milk Foam",
+    "name2": "Add Cold Foam",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 140,
+    "famGrpName": "Dairy Cold Foam Option"
+  },
+  {
+    "num": 11097074,
+    "name": "Add Hibiscus Tea",
+    "name2": "Passion Tea",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 181,
+    "famGrpName": "Tea Infusion Option"
+  },
+  {
+    "num": 11097819,
+    "name": "Ham & Swiss Panini",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 82,
+    "famGrpName": "Lunch Sandwich"
+  },
+  {
+    "num": 11104185,
+    "name": "TL Mocha Cookie Crumble Frappuccino",
+    "name2": "Mocha Cookie Crumble Frappuccino Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 30,
+    "famGrpName": "Frappuccino Coffee Frappuccino"
+  },
+  {
+    "num": 11104186,
+    "name": "GR Mocha Cookie Crumble Frappuccino",
+    "name2": "Mocha Cookie Crumble Frappuccino Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 30,
+    "famGrpName": "Frappuccino Coffee Frappuccino"
+  },
+  {
+    "num": 11104507,
+    "name": "Spinach Feta Wrap",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 69,
+    "famGrpName": "Breakfast Sandwich"
+  },
+  {
+    "num": 11105593,
+    "name": "Egg Bites Bacon & Gruyere",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 71,
+    "famGrpName": "Breakfast Egg"
+  },
+  {
+    "num": 11105655,
+    "name": "Crispy Grilled Cheese",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 82,
+    "famGrpName": "Lunch Sandwich"
+  },
+  {
+    "num": 11105980,
+    "name": "TL Cookies & Cream Frappuccino",
+    "name2": "Cookies & Cream Frappuccino Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 31,
+    "famGrpName": "Frappuccino Creme Frappuccino"
+  },
+  {
+    "num": 11105981,
+    "name": "GR Cookies & Cream Frappuccino",
+    "name2": "Cookies & Cream Frappuccino Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 31,
+    "famGrpName": "Frappuccino Creme Frappuccino"
+  },
+  {
+    "num": 11105982,
+    "name": "VT Cookies & Cream Frappuccino",
+    "name2": "Cookies & Cream Frappuccino Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 31,
+    "famGrpName": "Frappuccino Creme Frappuccino"
+  },
+  {
+    "num": 11110086,
+    "name": "Chocolate Chip Cookie",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 60,
+    "famGrpName": "Bakery Cookie"
+  },
+  {
+    "num": 11110503,
+    "name": "Cookie Crumble Topping",
+    "name2": "Cookie Crumble Topping",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 136,
+    "famGrpName": "Confection Sweet Topping Option"
+  },
+  {
+    "num": 11112922,
+    "name": "GR Mango Dragonfruit Frozen Starbucks Refresher",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 48,
+    "famGrpName": "Refreshment Refreshers"
+  },
+  {
+    "num": 11116470,
+    "name": "Impossible Sausage",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 69,
+    "famGrpName": "Breakfast Sandwich"
+  },
+  {
+    "num": 11119078,
+    "name": "Own Cup",
+    "name2": "Own Cup",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 173,
+    "famGrpName": "Preparation Serveware Option"
+  },
+  {
+    "num": 11119374,
+    "name": "Coffee 250gr Puerto Rico",
+    "name2": " ",
+    "majGrpNum": 4,
+    "majGrpName": "At Home",
+    "famGrpNum": 3,
+    "famGrpName": "At Home Coffee Packaged Coffee"
+  },
+  {
+    "num": 11120688,
+    "name": "Egg Bite Kale And Mushroom Peppers",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 71,
+    "famGrpName": "Breakfast Egg"
+  },
+  {
+    "num": 11121493,
+    "name": "Be Kind Dark Chocolate Sea Salt and Nuts 40 Gms",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 101,
+    "famGrpName": "Snack Bar"
+  },
+  {
+    "num": 11124760,
+    "name": "Not Warmed",
+    "name2": " ",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 175,
+    "famGrpName": "Preparation Temperature Option"
+  },
+  {
+    "num": 11124884,
+    "name": "Coffee Press 8C Columbia",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11124893,
+    "name": "Coffee Press 8C Guatemala",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11124899,
+    "name": "Coffee Press 8C Houseblend",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11124902,
+    "name": "Kenya 8 Cup",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11124905,
+    "name": "Coffee Press 8C Pike Place",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11124908,
+    "name": "Coffee Press 8C Sumatra",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11124911,
+    "name": "Verona 8 Cup",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11126648,
+    "name": "TL Strawberry Acai Starbucks Refresher",
+    "name2": "Frutilla Acaí Refresher Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 48,
+    "famGrpName": "Refreshment Refreshers"
+  },
+  {
+    "num": 11126859,
+    "name": "GR Strawberry Acai Starbucks Refresher",
+    "name2": "Frutilla Acaí Refresher Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 48,
+    "famGrpName": "Refreshment Refreshers"
+  },
+  {
+    "num": 11126860,
+    "name": "VT Strawberry Acai Starbucks Refresher",
+    "name2": "Frutilla Acaí Refresher Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 48,
+    "famGrpName": "Refreshment Refreshers"
+  },
+  {
+    "num": 11126876,
+    "name": "GR Pink Coconut Starbucks Refresher",
+    "name2": "Pink Drink Refresher Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 48,
+    "famGrpName": "Refreshment Refreshers"
+  },
+  {
+    "num": 11126901,
+    "name": "Strawberry Inclusion",
+    "name2": "Strawberry Inclusion",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 136,
+    "famGrpName": "Confection Sweet Topping Option"
+  },
+  {
+    "num": 11126906,
+    "name": "Strawberry Acai Base",
+    "name2": "Strawberry Acai Base",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 205,
+    "famGrpName": "Refreshment Component"
+  },
+  {
+    "num": 11128002,
+    "name": "Butter",
+    "name2": " ",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 141,
+    "famGrpName": "Dairy Spread Option"
+  },
+  {
+    "num": 11128959,
+    "name": "Lungo Shot",
+    "name2": "Lungo Shot",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 149,
+    "famGrpName": "Espresso Shot Option"
+  },
+  {
+    "num": 11128977,
+    "name": "Strawberry Drizzle",
+    "name2": "Strawberry Drizzle",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 133,
+    "famGrpName": "Confection Sweet Add-On Option"
+  },
+  {
+    "num": 11129873,
+    "name": "Hot Whole Milk Creamer",
+    "name2": "Splash Hot Whole Milk Creamer",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 143,
+    "famGrpName": "Dairy Milk Option"
+  },
+  {
+    "num": 11129876,
+    "name": "Hot NonFat Milk Creamer",
+    "name2": "Splash Hot NonFat Milk Creamer",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 143,
+    "famGrpName": "Dairy Milk Option"
+  },
+  {
+    "num": 11129881,
+    "name": "Hot Soy Milk Creamer",
+    "name2": "Splash Hot Soy Milk Creamer",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 143,
+    "famGrpName": "Dairy Milk Option"
+  },
+  {
+    "num": 11129887,
+    "name": "Hot Almond Milk Creamer",
+    "name2": "Splash Hot Almond Milk Creamer",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 143,
+    "famGrpName": "Dairy Milk Option"
+  },
+  {
+    "num": 11129890,
+    "name": "Hot Oat Milk Creamer",
+    "name2": "Splash Hot Oat Milk Creamer",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 143,
+    "famGrpName": "Dairy Milk Option"
+  },
+  {
+    "num": 11130008,
+    "name": "Ham & Cheese Croissant",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 62,
+    "famGrpName": "Bakery Laminated Pastry"
+  },
+  {
+    "num": 11130832,
+    "name": "ADD",
+    "name2": "ADD",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 174,
+    "famGrpName": "Preparation Serving Option"
+  },
+  {
+    "num": 11130836,
+    "name": "NO",
+    "name2": "NO",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 174,
+    "famGrpName": "Preparation Serving Option"
+  },
+  {
+    "num": 11130887,
+    "name": "TL Decaf Americano",
+    "name2": "Americano Decaf Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 19,
+    "famGrpName": "Espresso Americano"
+  },
+  {
+    "num": 11130888,
+    "name": "GR Decaf Americano",
+    "name2": "Americano Decaf Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 19,
+    "famGrpName": "Espresso Americano"
+  },
+  {
+    "num": 11130889,
+    "name": "VT Decaf Americano",
+    "name2": "Americano Decaf Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 19,
+    "famGrpName": "Espresso Americano"
+  },
+  {
+    "num": 11130904,
+    "name": "TL Decaf Latte",
+    "name2": "Latte Decaf Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 11130905,
+    "name": "GR Decaf Latte",
+    "name2": "Latte Decaf Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 11130906,
+    "name": "VT Decaf Latte",
+    "name2": "Latte Decaf Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 11130908,
+    "name": "TL Decaf Cappuccino",
+    "name2": "Cappuccino Decaf Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 21,
+    "famGrpName": "Espresso Cappuccino"
+  },
+  {
+    "num": 11130909,
+    "name": "GR Decaf Cappuccino",
+    "name2": "Cappuccino Decaf Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 21,
+    "famGrpName": "Espresso Cappuccino"
+  },
+  {
+    "num": 11130910,
+    "name": "VT Decaf Cappuccino",
+    "name2": "Cappuccino Decaf Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 21,
+    "famGrpName": "Espresso Cappuccino"
+  },
+  {
+    "num": 11130918,
+    "name": "TL Decaf Carml Macchiato",
+    "name2": "Caramel Macchiato Decaf Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 27,
+    "famGrpName": "Espresso Macchiato"
+  },
+  {
+    "num": 11130919,
+    "name": "GR Decaf Carml Macchiato",
+    "name2": "Caramel Macchiato Decaf Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 27,
+    "famGrpName": "Espresso Macchiato"
+  },
+  {
+    "num": 11130920,
+    "name": "VT Decaf Carml Macchiato",
+    "name2": "Caramel Macchiato Decaf Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 27,
+    "famGrpName": "Espresso Macchiato"
+  },
+  {
+    "num": 11130922,
+    "name": "TL Decaf Mocha",
+    "name2": "Mocha Decaf Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 28,
+    "famGrpName": "Espresso Mocha"
+  },
+  {
+    "num": 11130923,
+    "name": "GR Decaf Mocha",
+    "name2": "Mocha Decaf Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 28,
+    "famGrpName": "Espresso Mocha"
+  },
+  {
+    "num": 11130924,
+    "name": "VT Decaf Mocha",
+    "name2": "Mocha Decaf Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 28,
+    "famGrpName": "Espresso Mocha"
+  },
+  {
+    "num": 11130949,
+    "name": "TL Iced Decaf Americano",
+    "name2": "Iced Americano Decaf Alto ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 19,
+    "famGrpName": "Espresso Americano"
+  },
+  {
+    "num": 11130950,
+    "name": "GR Iced Decaf Americano",
+    "name2": "Iced Americano Decaf Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 19,
+    "famGrpName": "Espresso Americano"
+  },
+  {
+    "num": 11130951,
+    "name": "VT Iced Decaf Americano",
+    "name2": "Iced Americano Decaf Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 19,
+    "famGrpName": "Espresso Americano"
+  },
+  {
+    "num": 11130969,
+    "name": "TL Iced Decaf Latte",
+    "name2": "Iced Latte Decaf Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 11130970,
+    "name": "GR Iced Decaf Latte",
+    "name2": "Iced Latte Decaf Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 11130971,
+    "name": "VT Iced Decaf Latte",
+    "name2": "Iced Latte Decaf Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 11130978,
+    "name": "TL Iced Decaf Carml Macchiato",
+    "name2": "Iced Caramel Macchiato Decaf Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 27,
+    "famGrpName": "Espresso Macchiato"
+  },
+  {
+    "num": 11130979,
+    "name": "GR Iced Decaf Carml Macchiato",
+    "name2": "Iced Caramel Macchiato Decaf Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 27,
+    "famGrpName": "Espresso Macchiato"
+  },
+  {
+    "num": 11130980,
+    "name": "VT Iced Decaf Carml Macchiato",
+    "name2": "Iced Caramel Macchiato Decaf Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 27,
+    "famGrpName": "Espresso Macchiato"
+  },
+  {
+    "num": 11130981,
+    "name": "TL Iced Decaf Mocha",
+    "name2": "Iced Mocha Decaf Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 28,
+    "famGrpName": "Espresso Mocha"
+  },
+  {
+    "num": 11130982,
+    "name": "GR Iced Decaf Mocha",
+    "name2": "Iced Mocha Decaf Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 28,
+    "famGrpName": "Espresso Mocha"
+  },
+  {
+    "num": 11130983,
+    "name": "VT Iced Decaf Mocha",
+    "name2": "Iced Mocha Decaf Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 28,
+    "famGrpName": "Espresso Mocha"
+  },
+  {
+    "num": 11130985,
+    "name": "GR Iced Decaf White Mocha",
+    "name2": "Iced Mocha Blanco Decaf Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 28,
+    "famGrpName": "Espresso Mocha"
+  },
+  {
+    "num": 11131114,
+    "name": "Lactose Free Milk",
+    "name2": "Lactose Free Milk",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 207,
+    "famGrpName": "Milk Base Option"
+  },
+  {
+    "num": 11133429,
+    "name": "Splash Lactose Free Milk",
+    "name2": "Splash Cold Lactose Free ",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 143,
+    "famGrpName": "Dairy Milk Option"
+  },
+  {
+    "num": 11133724,
+    "name": "Potato Cheddar And Chive",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 71,
+    "famGrpName": "Breakfast Egg"
+  },
+  {
+    "num": 11134213,
+    "name": "Splash Hot Lactose Free Milk",
+    "name2": "Splash Hot Lactose Free Milk",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 143,
+    "famGrpName": "Dairy Milk Option"
+  },
+  {
+    "num": 11135371,
+    "name": "TL Iced Signature Brown Sugar Oat Shaken Espresso",
+    "name2": "Iced Brown Sugar Shaken Espresso Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 20,
+    "famGrpName": "Espresso Blended Espresso"
+  },
+  {
+    "num": 11135372,
+    "name": "GR Iced Signature Brown Sugar Oat Shaken Espresso",
+    "name2": "Iced Brown Sugar Shaken Espresso Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 20,
+    "famGrpName": "Espresso Blended Espresso"
+  },
+  {
+    "num": 11135373,
+    "name": "VT Iced Signature Brown Sugar Oat Shaken Espresso",
+    "name2": "Iced Brown Sugar Shaken Espresso Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 20,
+    "famGrpName": "Espresso Blended Espresso"
+  },
+  {
+    "num": 11135375,
+    "name": "GR Iced Decaf Brown Sugar Oat Shaken Espresso",
+    "name2": "Iced Brown Sugar Shaken Espresso Decaf Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 20,
+    "famGrpName": "Espresso Blended Espresso"
+  },
+  {
+    "num": 11135377,
+    "name": "TL Iced Signature White Mocha Oat Shaken Espresso",
+    "name2": "Iced Mocha Blanco Oat Shaken Espresso Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 20,
+    "famGrpName": "Espresso Blended Espresso"
+  },
+  {
+    "num": 11135378,
+    "name": "GR Iced Signature White Mocha Oat Shaken Espresso",
+    "name2": "Iced Mocha Blanco Oat Shaken Espresso Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 20,
+    "famGrpName": "Espresso Blended Espresso"
+  },
+  {
+    "num": 11135379,
+    "name": "VT Iced Signature White Mocha Oat Shaken Espresso",
+    "name2": "Iced Mocha Blanco Oat Shaken Espresso Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 20,
+    "famGrpName": "Espresso Blended Espresso"
+  },
+  {
+    "num": 11135383,
+    "name": "TL Iced Signature Cocoa Oat Shaken Espresso",
+    "name2": "Iced Chocolate Shaken Espresso Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 20,
+    "famGrpName": "Espresso Blended Espresso"
+  },
+  {
+    "num": 11135384,
+    "name": "GR Iced Signature Cocoa Oat Shaken Espresso",
+    "name2": "Iced Chocolate Shaken Espresso Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 20,
+    "famGrpName": "Espresso Blended Espresso"
+  },
+  {
+    "num": 11135385,
+    "name": "VT Iced Signature Cocoa Oat Shaken Espresso",
+    "name2": "Iced Chocolate Shaken Espresso Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 20,
+    "famGrpName": "Espresso Blended Espresso"
+  },
+  {
+    "num": 11135806,
+    "name": "Mocha Powder",
+    "name2": "Mocha Powder",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 134,
+    "famGrpName": "Confection Sweet Powder Option"
+  },
+  {
+    "num": 11137873,
+    "name": "GR Mango Dragonfruit Starbucks Refresher",
+    "name2": "Mango Pitaya Refresher Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 48,
+    "famGrpName": "Refreshment Refreshers"
+  },
+  {
+    "num": 11137874,
+    "name": "VT Mango Dragonfruit Starbucks Refresher",
+    "name2": "Mango Pitaya Refresher Venti",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 48,
+    "famGrpName": "Refreshment Refreshers"
+  },
+  {
+    "num": 11137876,
+    "name": "GR Dragon Coconut Starbucks Refresher",
+    "name2": "Dragon Drink Refresher Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 48,
+    "famGrpName": "Refreshment Refreshers"
+  },
+  {
+    "num": 11137878,
+    "name": "Brown Sugar Syrup",
+    "name2": "Brown Sugar Syrup",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 138,
+    "famGrpName": "Confection Syrup Option"
+  },
+  {
+    "num": 11137899,
+    "name": "Mango Dragon Fruit Base",
+    "name2": "Mango Dragon Fruit Base",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 135,
+    "famGrpName": "Confection Sweet Sauce Option"
+  },
+  {
+    "num": 11137906,
+    "name": "Dragon Fruit Pieces",
+    "name2": "Dragon Fruit Pieces",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 136,
+    "famGrpName": "Confection Sweet Topping Option"
+  },
+  {
+    "num": 11139768,
+    "name": "Popcorn Butter 20/CS US",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 98,
+    "famGrpName": "Snack Popcorn"
+  },
+  {
+    "num": 11142522,
+    "name": "GR Strawberry Acai Frozen Starbucks Refresher ",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 48,
+    "famGrpName": "Refreshment Refreshers"
+  },
+  {
+    "num": 11146091,
+    "name": "Cream Cheese",
+    "name2": " ",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 141,
+    "famGrpName": "Dairy Spread Option"
+  },
+  {
+    "num": 11149977,
+    "name": "GR Columbia Narino Pour Over",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11149979,
+    "name": "Colombia Narnino Chemex",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11149987,
+    "name": "GR Guatemala Antigua Pour Over",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11149989,
+    "name": "Guatamela Antigua Chemex",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11149992,
+    "name": "GR Houseblend Pour Over",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11149994,
+    "name": "Houseblend Chemex",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11149997,
+    "name": "GR Kenya Pour Over",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11149999,
+    "name": "Kenya Chemex",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11150006,
+    "name": "GR Decaf Komodo Dragon Pour Over",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11150008,
+    "name": "Decaf Komodo Dragon Chemex",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11150011,
+    "name": "GR Pike Place Roast Pour Over",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11150013,
+    "name": "Pike Place Roast Chemex",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11150016,
+    "name": "GR Sumatra Pour Over",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11150018,
+    "name": "Sumatra Chemex",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11150026,
+    "name": "GR Verona Pour Over",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11150028,
+    "name": "Verona Chemex",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11150097,
+    "name": "TL Decaf Flat White",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 24,
+    "famGrpName": "Espresso Flat White"
+  },
+  {
+    "num": 11150098,
+    "name": "GR Decaf Flat White",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 24,
+    "famGrpName": "Espresso Flat White"
+  },
+  {
+    "num": 11150099,
+    "name": "VT Decaf Flat White",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 24,
+    "famGrpName": "Espresso Flat White"
+  },
+  {
+    "num": 11150113,
+    "name": "VT Strawberry Acai Frozen Starbucks Refresher",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 48,
+    "famGrpName": "Refreshment Refreshers"
+  },
+  {
+    "num": 11150277,
+    "name": "TL Decaf Vanilla Latte",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 11150278,
+    "name": "GR Decaf Vanilla Latte",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 11150279,
+    "name": "VT Decaf Vanilla Latte",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 11150284,
+    "name": "TL Iced Decaf Vanilla Latte",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 24,
+    "famGrpName": "Espresso Flat White"
+  },
+  {
+    "num": 11150285,
+    "name": "GR Iced Decaf Vanilla Latte",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 24,
+    "famGrpName": "Espresso Flat White"
+  },
+  {
+    "num": 11150286,
+    "name": "VT Iced Decaf Vanilla Latte",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 24,
+    "famGrpName": "Espresso Flat White"
+  },
+  {
+    "num": 11150290,
+    "name": "TL Iced Vanilla Latte",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 11150291,
+    "name": "GR Iced Vanilla Latte",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 11150292,
+    "name": "VT Iced Vanilla Latte",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 11150293,
+    "name": "SH Vanilla Latte",
+    "name2": "Vanilla Latte Corto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 11150294,
+    "name": "TL Vanilla Latte",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 11150295,
+    "name": "GR Vanilla Latte",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 11150296,
+    "name": "VT Vanilla Latte",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 11150299,
+    "name": "GR Iced Hazelnut Oat Shaken Espresso",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 20,
+    "famGrpName": "Espresso Blended Espresso"
+  },
+  {
+    "num": 11150617,
+    "name": "TL Iced Shaken Oat Espresso",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 20,
+    "famGrpName": "Espresso Blended Espresso"
+  },
+  {
+    "num": 11150618,
+    "name": "GR Iced Shaken Oat Espresso",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 20,
+    "famGrpName": "Espresso Blended Espresso"
+  },
+  {
+    "num": 11150619,
+    "name": "VT Iced Shaken Oat Espresso",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 20,
+    "famGrpName": "Espresso Blended Espresso"
+  },
+  {
+    "num": 11150862,
+    "name": "Coffee Press 8C Decaf Komodo Dragon",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11150863,
+    "name": "Coffee Press 8Cup Espresso",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11150867,
+    "name": "GR Espresso Pour Over",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11150905,
+    "name": "VT Vanilla Frappuccino ",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 30,
+    "famGrpName": "Frappuccino Coffee Frappuccino"
+  },
+  {
+    "num": 11151083,
+    "name": "VT Mocha Cookie Crumble Frappuccino",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 30,
+    "famGrpName": "Frappuccino Coffee Frappuccino"
+  },
+  {
+    "num": 11151088,
+    "name": "VT Caramel Ribbon Crunch Frappuccino",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 30,
+    "famGrpName": "Frappuccino Coffee Frappuccino"
+  },
+  {
+    "num": 11151123,
+    "name": "Dark Caramel Sauce",
+    "name2": "Dark Caramel Sauce",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 135,
+    "famGrpName": "Confection Sweet Sauce Option"
+  },
+  {
+    "num": 11151271,
+    "name": "GR Vanilla Sweet Cream Nitro Cold Brew",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 17,
+    "famGrpName": "Coffee Cold Brew"
+  },
+  {
+    "num": 11151288,
+    "name": "No Cold Foam",
+    "name2": "No Cold Foam",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 140,
+    "famGrpName": "Dairy Cold Foam Option"
+  },
+  {
+    "num": 11152272,
+    "name": "Colombia Siphon",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11152273,
+    "name": "Kenya Siphon",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11152274,
+    "name": "Verona Siphon",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11152275,
+    "name": "Sumatra Siphon",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11152276,
+    "name": "Espresso Siphon",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11152869,
+    "name": "Cream Cheese",
+    "name2": " ",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 141,
+    "famGrpName": "Dairy Spread Option"
+  },
+  {
+    "num": 11155448,
+    "name": "Siete Lime Grain Free to",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 88,
+    "famGrpName": "Snack Chips"
+  },
+  {
+    "num": 11155712,
+    "name": "Sea Salt Potato Chips ",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 88,
+    "famGrpName": "Snack Chips"
+  },
+  {
+    "num": 11158027,
+    "name": "Blueberry Muffin",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 54,
+    "famGrpName": "Bakery Bagel"
+  },
+  {
+    "num": 11158233,
+    "name": "Nutella",
+    "name2": " ",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 168,
+    "famGrpName": "Nut Spread Option"
+  },
+  {
+    "num": 11162513,
+    "name": "Pumpkin Loaf",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 57,
+    "famGrpName": "Bakery Cake"
+  },
+  {
+    "num": 11167575,
+    "name": "Plain Bagel",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 54,
+    "famGrpName": "Bakery Bagel"
+  },
+  {
+    "num": 11167576,
+    "name": "Everything Bagel",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 54,
+    "famGrpName": "Bakery Bagel"
+  },
+  {
+    "num": 11168556,
+    "name": "Add Whole Milk (Food)",
+    "name2": " ",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 144,
+    "famGrpName": "Dairy Whipped Cream Option"
+  },
+  {
+    "num": 11168557,
+    "name": "Add Skimmed Milk (Food)",
+    "name2": " ",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 144,
+    "famGrpName": "Dairy Whipped Cream Option"
+  },
+  {
+    "num": 11168563,
+    "name": "Add Oat Milk (Food)",
+    "name2": " ",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 144,
+    "famGrpName": "Dairy Whipped Cream Option"
+  },
+  {
+    "num": 11176918,
+    "name": "Café Con Leche",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11176919,
+    "name": "Cortadito",
+    "name2": "Cortado",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11177412,
+    "name": "G&C Panetela",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 57,
+    "famGrpName": "Bakery Cake"
+  },
+  {
+    "num": 11177413,
+    "name": "Quesito Crema",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 62,
+    "famGrpName": "Bakery Laminated Pastry"
+  },
+  {
+    "num": 11177414,
+    "name": "Quesito Guava",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 62,
+    "famGrpName": "Bakery Laminated Pastry"
+  },
+  {
+    "num": 11177415,
+    "name": "Corn Loaf",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 56,
+    "famGrpName": "Bakery Bread"
+  },
+  {
+    "num": 11177416,
+    "name": "Cinnamon Danish",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 62,
+    "famGrpName": "Bakery Laminated Pastry"
+  },
+  {
+    "num": 11177417,
+    "name": "Chobani Strawberry Yogurt",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 74,
+    "famGrpName": "Breakfast Yogurt"
+  },
+  {
+    "num": 11177418,
+    "name": "Chobani Vanilla Yogurt",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 74,
+    "famGrpName": "Breakfast Yogurt"
+  },
+  {
+    "num": 11177419,
+    "name": "OUI Vanilla Yogurt",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 74,
+    "famGrpName": "Breakfast Yogurt"
+  },
+  {
+    "num": 11177420,
+    "name": "OUI Coco Yogurt",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 74,
+    "famGrpName": "Breakfast Yogurt"
+  },
+  {
+    "num": 11177421,
+    "name": "Yogurt Parfait",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 74,
+    "famGrpName": "Breakfast Yogurt"
+  },
+  {
+    "num": 11177422,
+    "name": "Mallorca Salami & Cheddar",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 82,
+    "famGrpName": "Lunch Sandwich"
+  },
+  {
+    "num": 11177423,
+    "name": "Ham & Cheese Mallorca",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 82,
+    "famGrpName": "Lunch Sandwich"
+  },
+  {
+    "num": 11177424,
+    "name": "Turkey & Swiss Croissant",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 82,
+    "famGrpName": "Lunch Sandwich"
+  },
+  {
+    "num": 11177425,
+    "name": "Ciabatta Club Sandwich",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 82,
+    "famGrpName": "Lunch Sandwich"
+  },
+  {
+    "num": 11177426,
+    "name": "Italian Sub",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 82,
+    "famGrpName": "Lunch Sandwich"
+  },
+  {
+    "num": 11177427,
+    "name": "Hummus Cup with Chips Cu",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 90,
+    "famGrpName": "Snack Dip"
+  },
+  {
+    "num": 11177428,
+    "name": "Genoa Salami Snack",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 80,
+    "famGrpName": "Lunch Protein Box"
+  },
+  {
+    "num": 11177429,
+    "name": "Italian Dry Salami Snack",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 80,
+    "famGrpName": "Lunch Protein Box"
+  },
+  {
+    "num": 11177430,
+    "name": "Almond Coconut Kind Bar",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 101,
+    "famGrpName": "Snack Bar"
+  },
+  {
+    "num": 11177431,
+    "name": "Mi Cosecha Sancochip 2oz",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 88,
+    "famGrpName": "Snack Chips"
+  },
+  {
+    "num": 11177432,
+    "name": "Mi Cosecha Yuquitas 2oz",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 88,
+    "famGrpName": "Snack Chips"
+  },
+  {
+    "num": 11177433,
+    "name": "Florida's Natural Growers' Pride Apple Juice",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 41,
+    "famGrpName": "Ready-to-Drink Juice"
+  },
+  {
+    "num": 11177434,
+    "name": "Florida's Natural Orange Juice",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 41,
+    "famGrpName": "Ready-to-Drink Juice"
+  },
+  {
+    "num": 11177435,
+    "name": "Fiji Water 500ml",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 45,
+    "famGrpName": "Ready-to-Drink Water"
+  },
+  {
+    "num": 11177436,
+    "name": "Sparkling Water Grape",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 45,
+    "famGrpName": "Ready-to-Drink Water"
+  },
+  {
+    "num": 11177437,
+    "name": "Bottled Frappuccino",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 40,
+    "famGrpName": "Ready-to-Drink Frappuccino"
+  },
+  {
+    "num": 11177438,
+    "name": "Perrier",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 45,
+    "famGrpName": "Ready-to-Drink Water"
+  },
+  {
+    "num": 11177439,
+    "name": "Organic Go Green Cold Pressed",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 41,
+    "famGrpName": "Ready-to-Drink Juice"
+  },
+  {
+    "num": 11177440,
+    "name": "Organic Tropical Cold Pressed",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 41,
+    "famGrpName": "Ready-to-Drink Juice"
+  },
+  {
+    "num": 11179140,
+    "name": "GR Puerto Rico Pour Over",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11179145,
+    "name": "Siphon Pike Place",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11179146,
+    "name": "Siphon Houseblend",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11179147,
+    "name": "Siphon Guatemala ",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11179148,
+    "name": "Siphon Decaf Komodo Dragon",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11182356,
+    "name": "GR Espresso Bianco ",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11185193,
+    "name": "GR Syrup Crème Frappuccino",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 31,
+    "famGrpName": "Frappuccino Creme Frappuccino"
+  },
+  {
+    "num": 999999999,
+    "name": "999",
+    "name2": "999",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 174,
+    "famGrpName": "Preparation Serving Option"
+  }
+]

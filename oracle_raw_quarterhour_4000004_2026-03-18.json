@@ -1,0 +1,122 @@
+{
+  "locRef": "4000004",
+  "busDt": "2026-03-18",
+  "revenueCenters": [
+    {
+      "rvcNum": 1,
+      "quarterHours": [
+        {
+          "qtrHrNum": 45,
+          "busHrNum": 11,
+          "dpName": "Lunch",
+          "netSlsTtl": 31.05,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "chngInGrndTtl": 33.22,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 31.05,
+          "taxCollTtl": 2.17,
+          "chkCnt": 2,
+          "errCorTtl": 46.25,
+          "errCorCnt": 8,
+          "chkOpnTtl": 33.22,
+          "chkOpnCnt": 2,
+          "chkClsdTtl": 33.22,
+          "chkClsdCnt": 2
+        },
+        {
+          "qtrHrNum": 59,
+          "busHrNum": 14,
+          "dpName": "Afternoon",
+          "netSlsTtl": 0,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 0,
+          "taxCollTtl": 0,
+          "chkCnt": 0,
+          "transCnclTtl": 8.61,
+          "transCnclCnt": 1,
+          "chkOpnTtl": 0,
+          "chkOpnCnt": 0,
+          "chkClsdTtl": 0,
+          "chkClsdCnt": 0
+        },
+        {
+          "qtrHrNum": 74,
+          "busHrNum": 18,
+          "dpName": "Evening",
+          "netSlsTtl": 13.6,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "chngInGrndTtl": 14.56,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 13.6,
+          "taxCollTtl": 0.96,
+          "chkCnt": 1,
+          "chkOpnTtl": 14.56,
+          "chkOpnCnt": 1,
+          "chkClsdTtl": 14.56,
+          "chkClsdCnt": 2
+        },
+        {
+          "qtrHrNum": 77,
+          "busHrNum": 19,
+          "dpName": "Evening",
+          "netSlsTtl": 0,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 0,
+          "taxCollTtl": 0,
+          "chkCnt": 1,
+          "chkOpnTtl": 0,
+          "chkOpnCnt": 1,
+          "chkClsdTtl": 0,
+          "chkClsdCnt": 1
+        },
+        {
+          "qtrHrNum": 88,
+          "busHrNum": 21,
+          "dpName": "Evening",
+          "netSlsTtl": 0,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 0,
+          "taxCollTtl": 0,
+          "chkCnt": 0,
+          "transCnclTtl": -15.27,
+          "transCnclCnt": 3,
+          "chkOpnTtl": 0,
+          "chkOpnCnt": 0,
+          "chkClsdTtl": 0,
+          "chkClsdCnt": 0
+        }
+      ]
+    },
+    {
+      "rvcNum": 4,
+      "quarterHours": [
+        {
+          "qtrHrNum": 52,
+          "busHrNum": 12,
+          "dpName": "Lunch",
+          "netSlsTtl": 4.8,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "chngInGrndTtl": 5.14,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 4.8,
+          "taxCollTtl": 0.34,
+          "chkCnt": 1,
+          "gstCnt": 1,
+          "chkOpnTtl": 5.14,
+          "chkOpnCnt": 1,
+          "chkClsdTtl": 5.14,
+          "chkClsdCnt": 1
+        }
+      ]
+    }
+  ]
+}

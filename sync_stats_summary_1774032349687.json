@@ -1,0 +1,20 @@
+[
+  {
+    "locRef": "29402",
+    "name": "zPUR Test Lab",
+    "normalizedName": "zpurtestlab",
+    "matchedLocationKey": "macysponce",
+    "datastreamMatch": true,
+    "totalSales": 137.25,
+    "totalChecks": 174,
+    "baselineCount": 174,
+    "hasData": true,
+    "nonZeroStatsCount": 6,
+    "datastreamsCount": 4,
+    "missingRvcDatastreamCount": 0,
+    "publishStatus": "published-all-intervals",
+    "publishApiStatusCode": 201,
+    "publishApiBody": "[{\"id\":80996176295,\"time\":1773892800,\"stat\":0.0,\"type\":\"checks\",\"datastream_id\":583856},{\"id\":80996176296,\"time\":1773893700,\"stat\":0.0,\"type\":\"checks\",\"datastream_id\":583856},{\"id\":80996176297,\"time\":1773894600,\"stat\":0.0,\"type\":\"checks\",\"datastream_id\":583856},{\"id\":80996176298,\"time\":1773895500,\"stat\":0.0,\"type\":\"checks\",\"datastream_id\":583856},{\"id\":80996176299,\"time\":1773896400,\"stat\":0.0,\"type\":\"checks\",\"datastream_id\":583856},{\"id\":80996176300,\"time\":1773897300,\"stat\":0.0,\"type\":\"checks\",\"datastream_id\":583856},{\"id\":80996176301,\"time\":1773898200,\"stat\":0.0,\"type\":\"checks\",\"datastream_id\":583856},{\"id\":80996176302,\"time\":1773899100,\"stat\":0.0,\"type\":\"checks\",\"datastream_id\":583856},{\"id\":80996176303,\"time\":1773900000,\"stat\":0.0,\"type\":\"checks\",\"datastream_id\":583856},{\"id\":8099617630",
+    "ok": true
+  }
+]

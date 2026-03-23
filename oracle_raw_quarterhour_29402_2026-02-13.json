@@ -1,0 +1,100 @@
+{
+  "locRef": "29402",
+  "busDt": "2026-02-13",
+  "revenueCenters": [
+    {
+      "rvcNum": 1,
+      "quarterHours": [
+        {
+          "qtrHrNum": 62,
+          "busHrNum": 15,
+          "dpName": "Afternoon",
+          "netSlsTtl": 106.11,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "chngInGrndTtl": 113.54,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 106.11,
+          "taxCollTtl": 7.43,
+          "prepCostTtl": 21,
+          "chkCnt": 11,
+          "chkOpnTtl": 113.54,
+          "chkOpnCnt": 11,
+          "chkClsdTtl": 113.54,
+          "chkClsdCnt": 11
+        },
+        {
+          "qtrHrNum": 63,
+          "busHrNum": 15,
+          "dpName": "Afternoon",
+          "netSlsTtl": 61.2,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "chngInGrndTtl": 65.51,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 61.2,
+          "taxCollTtl": 4.31,
+          "prepCostTtl": 16,
+          "chkCnt": 12,
+          "chkOpnTtl": 65.51,
+          "chkOpnCnt": 12,
+          "chkClsdTtl": 65.51,
+          "chkClsdCnt": 12
+        },
+        {
+          "qtrHrNum": 64,
+          "busHrNum": 15,
+          "dpName": "Afternoon",
+          "netSlsTtl": 21.38,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "chngInGrndTtl": 22.88,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 21.38,
+          "taxCollTtl": 1.5,
+          "prepCostTtl": 5,
+          "chkCnt": 4,
+          "chkOpnTtl": 22.88,
+          "chkOpnCnt": 4,
+          "chkClsdTtl": 22.88,
+          "chkClsdCnt": 4
+        },
+        {
+          "qtrHrNum": 66,
+          "busHrNum": 16,
+          "dpName": "Afternoon",
+          "netSlsTtl": 1,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "chngInGrndTtl": 1.07,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 1,
+          "taxCollTtl": 0.07,
+          "chkCnt": 1,
+          "chkOpnTtl": 1.07,
+          "chkOpnCnt": 1,
+          "chkClsdTtl": 1.07,
+          "chkClsdCnt": 1
+        },
+        {
+          "qtrHrNum": 68,
+          "busHrNum": 16,
+          "dpName": "Afternoon",
+          "netSlsTtl": 11.2,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "chngInGrndTtl": 11.98,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 11.2,
+          "taxCollTtl": 0.78,
+          "prepCostTtl": 1,
+          "chkCnt": 4,
+          "chkOpnTtl": 11.98,
+          "chkOpnCnt": 4,
+          "chkClsdTtl": 11.98,
+          "chkClsdCnt": 4
+        }
+      ]
+    }
+  ]
+}

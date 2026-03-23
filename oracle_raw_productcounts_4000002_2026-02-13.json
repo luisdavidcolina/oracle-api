@@ -1,0 +1,75 @@
+{
+  "locRef": "4000002",
+  "busDt": "2026-02-13",
+  "revenueCenters": [
+    {
+      "rvcNum": 1,
+      "quarterHours": [
+        {
+          "qtrHrNum": 68,
+          "busHrNum": 16,
+          "dpName": "Afternoon",
+          "menuItems": [
+            {
+              "miNum": 110086,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1,
+              "prepCost": 1
+            },
+            {
+              "miNum": 181585,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 3.8,
+              "slsCnt": 4
+            },
+            {
+              "miNum": 11029735,
+              "prcLvlNum": 9,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 3
+            },
+            {
+              "miNum": 11091892,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11130832,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11130836,
+              "prcLvlNum": 1,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11135372,
+              "prcLvlNum": 2,
+              "otNum": 1,
+              "ocNum": 1,
+              "slsTtl": 1,
+              "slsCnt": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

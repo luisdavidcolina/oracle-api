@@ -1,0 +1,47 @@
+[
+  {
+    "locRef": "29402",
+    "name": "zPUR Test Lab",
+    "normalizedName": "zpurtestlab",
+    "matchedLocationKey": "macysponce",
+    "datastreamMatch": true,
+    "totalSales": 46.65,
+    "totalCount": 96,
+    "hasData": true,
+    "published": true,
+    "publishDatastreams": {
+      "salesKey": "sales(macysponcestarbuckscafe)",
+      "salesId": 534349,
+      "checksKey": "checks(macysponcestarbuckscafe)",
+      "checksId": 583855,
+      "intervals": 96
+    },
+    "ok": true
+  },
+  {
+    "locRef": "4000003",
+    "name": "zPUR PS Test Lab",
+    "normalizedName": "zpurpstestlab",
+    "matchedLocationKey": "macysponce",
+    "datastreamMatch": true,
+    "totalSales": 0,
+    "totalCount": 0,
+    "hasData": false,
+    "published": false,
+    "publishDatastreams": null,
+    "ok": true
+  },
+  {
+    "locRef": "4000002",
+    "name": "zSBUX PUR Lab",
+    "normalizedName": "zsbuxpurlab",
+    "matchedLocationKey": "zsbuxpurlab",
+    "datastreamMatch": false,
+    "totalSales": 0,
+    "totalCount": 0,
+    "hasData": false,
+    "published": false,
+    "publishDatastreams": null,
+    "ok": true
+  }
+]

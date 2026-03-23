@@ -1,0 +1,17 @@
+[
+  {
+    "locRef": "29402",
+    "name": "zPUR Test Lab",
+    "normalizedName": "zpurtestlab",
+    "matchedLocationKey": "macysponce",
+    "datastreamMatch": true,
+    "totalSales": 93.7,
+    "totalChecks": 101,
+    "baselineCount": 101,
+    "hasData": true,
+    "datastreamsCount": 4,
+    "missingRvcDatastreamCount": 0,
+    "publishStatus": "skipped",
+    "ok": true
+  }
+]

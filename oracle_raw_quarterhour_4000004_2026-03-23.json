@@ -1,0 +1,93 @@
+{
+  "locRef": "4000004",
+  "busDt": "2026-03-23",
+  "revenueCenters": [
+    {
+      "rvcNum": 1,
+      "quarterHours": [
+        {
+          "qtrHrNum": 37,
+          "busHrNum": 9,
+          "dpName": "Morning",
+          "netSlsTtl": 6.15,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "chngInGrndTtl": 6.58,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 6.15,
+          "taxCollTtl": 0.43,
+          "chkCnt": 1,
+          "errCorTtl": 14.6,
+          "errCorCnt": 3,
+          "chkOpnTtl": 6.58,
+          "chkOpnCnt": 1,
+          "chkClsdTtl": 6.58,
+          "chkClsdCnt": 1
+        }
+      ]
+    },
+    {
+      "rvcNum": 2,
+      "quarterHours": [
+        {
+          "qtrHrNum": 36,
+          "busHrNum": 8,
+          "dpName": "Morning",
+          "netSlsTtl": 9.25,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "chngInGrndTtl": 9.9,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 9.25,
+          "taxCollTtl": 0.65,
+          "chkCnt": 3,
+          "errCorTtl": 10.35,
+          "errCorCnt": 2,
+          "transCnclCnt": 1,
+          "chkOpnTtl": 9.9,
+          "chkOpnCnt": 3,
+          "chkClsdTtl": 3.96,
+          "chkClsdCnt": 1
+        },
+        {
+          "qtrHrNum": 37,
+          "busHrNum": 9,
+          "dpName": "Morning",
+          "netSlsTtl": 0,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 0,
+          "taxCollTtl": 0,
+          "chkCnt": 0,
+          "chkOpnTtl": 0,
+          "chkOpnCnt": 0,
+          "chkClsdTtl": 5.94,
+          "chkClsdCnt": 2
+        }
+      ]
+    },
+    {
+      "rvcNum": 4,
+      "quarterHours": [
+        {
+          "qtrHrNum": 38,
+          "busHrNum": 9,
+          "dpName": "Morning",
+          "netSlsTtl": 9.6,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "chngInGrndTtl": 9.6,
+          "nonTxblSlsTtl": 9.6,
+          "txblSlsTtl": 0,
+          "taxCollTtl": 0,
+          "chkCnt": 2,
+          "chkOpnTtl": 9.6,
+          "chkOpnCnt": 2,
+          "chkClsdTtl": 4.8,
+          "chkClsdCnt": 1
+        }
+      ]
+    }
+  ]
+}

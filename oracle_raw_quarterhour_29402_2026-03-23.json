@@ -1,0 +1,52 @@
+{
+  "locRef": "29402",
+  "busDt": "2026-03-23",
+  "revenueCenters": [
+    {
+      "rvcNum": 2,
+      "quarterHours": [
+        {
+          "qtrHrNum": 36,
+          "busHrNum": 8,
+          "dpName": "Morning",
+          "netSlsTtl": 18.08,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "chngInGrndTtl": 19.34,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 18.08,
+          "taxCollTtl": 1.26,
+          "chkCnt": 2,
+          "errCorTtl": 4.8,
+          "errCorCnt": 1,
+          "chkOpnTtl": 19.34,
+          "chkOpnCnt": 2,
+          "chkClsdTtl": 0,
+          "chkClsdCnt": 0
+        }
+      ]
+    },
+    {
+      "rvcNum": 4,
+      "quarterHours": [
+        {
+          "qtrHrNum": 38,
+          "busHrNum": 9,
+          "dpName": "Morning",
+          "netSlsTtl": 4.8,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "chngInGrndTtl": 4.8,
+          "nonTxblSlsTtl": 4.8,
+          "txblSlsTtl": 0,
+          "taxCollTtl": 0,
+          "chkCnt": 1,
+          "chkOpnTtl": 4.8,
+          "chkOpnCnt": 1,
+          "chkClsdTtl": 4.8,
+          "chkClsdCnt": 1
+        }
+      ]
+    }
+  ]
+}

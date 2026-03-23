@@ -1,0 +1,314 @@
+{
+  "locRef": "29402",
+  "busDt": "2026-03-15",
+  "revenueCenters": [
+    {
+      "rvcNum": 1,
+      "quarterHours": [
+        {
+          "qtrHrNum": 74,
+          "busHrNum": 18,
+          "dpName": "Evening",
+          "menuItems": [
+            {
+              "miNum": 47,
+              "prcLvlNum": 8,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 5.4,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 109891,
+              "prcLvlNum": 16,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 109920,
+              "prcLvlNum": 9,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 4
+            },
+            {
+              "miNum": 110086,
+              "prcLvlNum": 8,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11029735,
+              "prcLvlNum": 16,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11091892,
+              "prcLvlNum": 8,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            }
+          ]
+        },
+        {
+          "qtrHrNum": 77,
+          "busHrNum": 19,
+          "dpName": "Evening",
+          "menuItems": [
+            {
+              "miNum": 109891,
+              "prcLvlNum": 16,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 109897,
+              "prcLvlNum": 8,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 110086,
+              "prcLvlNum": 8,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 148690,
+              "prcLvlNum": 8,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 1,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 178667,
+              "prcLvlNum": 8,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 189840,
+              "prcLvlNum": 9,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 4
+            },
+            {
+              "miNum": 11029735,
+              "prcLvlNum": 16,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11044803,
+              "prcLvlNum": 8,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 4.8,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11091892,
+              "prcLvlNum": 8,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11096204,
+              "prcLvlNum": 8,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 1.15,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11130832,
+              "prcLvlNum": 1,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            }
+          ]
+        },
+        {
+          "qtrHrNum": 78,
+          "busHrNum": 19,
+          "dpName": "Evening",
+          "menuItems": [
+            {
+              "miNum": 109897,
+              "prcLvlNum": 8,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 178667,
+              "prcLvlNum": 8,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11042135,
+              "prcLvlNum": 8,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 1.1,
+              "slsCnt": 1,
+              "dscTtl": -0.33
+            },
+            {
+              "miNum": 11091892,
+              "prcLvlNum": 8,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11126876,
+              "prcLvlNum": 8,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 1,
+              "slsCnt": 1,
+              "dscTtl": -0.3
+            },
+            {
+              "miNum": 11126901,
+              "prcLvlNum": 16,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11126906,
+              "prcLvlNum": 9,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            }
+          ]
+        },
+        {
+          "qtrHrNum": 81,
+          "busHrNum": 20,
+          "dpName": "Evening",
+          "menuItems": [
+            {
+              "miNum": 42,
+              "prcLvlNum": 8,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 9.5,
+              "slsCnt": 2,
+              "dscTtl": -0.1
+            },
+            {
+              "miNum": 109891,
+              "prcLvlNum": 16,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 109900,
+              "prcLvlNum": 8,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 110086,
+              "prcLvlNum": 8,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 3
+            },
+            {
+              "miNum": 148690,
+              "prcLvlNum": 8,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 1,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 189840,
+              "prcLvlNum": 9,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 4
+            },
+            {
+              "miNum": 11029735,
+              "prcLvlNum": 16,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 6
+            },
+            {
+              "miNum": 11091892,
+              "prcLvlNum": 8,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 3
+            },
+            {
+              "miNum": 11119078,
+              "prcLvlNum": 8,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11130832,
+              "prcLvlNum": 1,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

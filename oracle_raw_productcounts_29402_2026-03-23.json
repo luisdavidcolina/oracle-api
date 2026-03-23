@@ -1,0 +1,94 @@
+{
+  "locRef": "29402",
+  "busDt": "2026-03-23",
+  "revenueCenters": [
+    {
+      "rvcNum": 2,
+      "quarterHours": [
+        {
+          "qtrHrNum": 36,
+          "busHrNum": 8,
+          "dpName": "Morning",
+          "menuItems": [
+            {
+              "miNum": 3,
+              "prcLvlNum": 8,
+              "otNum": 3,
+              "ocNum": 1,
+              "slsTtl": 3.7,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11057352,
+              "prcLvlNum": 8,
+              "otNum": 3,
+              "ocNum": 1,
+              "slsTtl": 8.43,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11091892,
+              "prcLvlNum": 8,
+              "otNum": 3,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11158027,
+              "prcLvlNum": 1,
+              "otNum": 3,
+              "ocNum": 1,
+              "slsTtl": 3.1,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11177415,
+              "prcLvlNum": 1,
+              "otNum": 3,
+              "ocNum": 1,
+              "slsTtl": 2.85,
+              "slsCnt": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rvcNum": 4,
+      "quarterHours": [
+        {
+          "qtrHrNum": 38,
+          "busHrNum": 9,
+          "dpName": "Morning",
+          "menuItems": [
+            {
+              "miNum": 109917,
+              "prcLvlNum": 16,
+              "otNum": 10,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 110086,
+              "prcLvlNum": 8,
+              "otNum": 10,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11150294,
+              "prcLvlNum": 8,
+              "otNum": 10,
+              "ocNum": 1,
+              "slsTtl": 4.8,
+              "slsCnt": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

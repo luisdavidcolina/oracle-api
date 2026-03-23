@@ -1,0 +1,32 @@
+{
+  "locRef": "4000002",
+  "busDt": "2026-03-22",
+  "revenueCenters": [
+    {
+      "rvcNum": 1,
+      "quarterHours": [
+        {
+          "qtrHrNum": 16,
+          "busHrNum": 3,
+          "dpName": "Morning",
+          "netSlsTtl": 4,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "chngInGrndTtl": 4.28,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 4,
+          "taxCollTtl": 0.28,
+          "chkCnt": 1,
+          "errCorTtl": 9.8,
+          "errCorCnt": 2,
+          "transCnclTtl": 762.28,
+          "transCnclCnt": 30,
+          "chkOpnTtl": 4.28,
+          "chkOpnCnt": 1,
+          "chkClsdTtl": 4.28,
+          "chkClsdCnt": 1
+        }
+      ]
+    }
+  ]
+}

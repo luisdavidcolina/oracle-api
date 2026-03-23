@@ -1,0 +1,4062 @@
+[
+    {
+        "Time": "6:30",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "15.10",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "6:45",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "46.10",
+            "3"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "7:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "34.95",
+            "3"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "7:15",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "93.10",
+            "7"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "7:30",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "62.75",
+            "5"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "7:45",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "41.75",
+            "5"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "8:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "26.60",
+            "3"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "8:15",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "44.40",
+            "3"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "8:30",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "56.60",
+            "6"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "8:45",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "29.00",
+            "3"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "9:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "47.95",
+            "4"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "9:15",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "39.45",
+            "5"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "9:30",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "31.65",
+            "4"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "9:45",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "17.30",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "10:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "4.00",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "10:15",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "25.85",
+            "3"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "10:30",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "24.70",
+            "2"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "10:45",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "52.80",
+            "4"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "6:30",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "11.10",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoDoor Dash)",
+            "Checks(Auxilio MutuoDoor Dash)"
+        ]
+    },
+    {
+        "Time": "7:15",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "5.95",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoDoor Dash)",
+            "Checks(Auxilio MutuoDoor Dash)"
+        ]
+    },
+    {
+        "Time": "7:45",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "8.15",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoDoor Dash)",
+            "Checks(Auxilio MutuoDoor Dash)"
+        ]
+    },
+    {
+        "Time": "8:45",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "19.50",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoDoor Dash)",
+            "Checks(Auxilio MutuoDoor Dash)"
+        ]
+    },
+    {
+        "Time": "9:30",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "8.20",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoDoor Dash)",
+            "Checks(Auxilio MutuoDoor Dash)"
+        ]
+    },
+    {
+        "Time": "10:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "14.00",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoDoor Dash)",
+            "Checks(Auxilio MutuoDoor Dash)"
+        ]
+    },
+    {
+        "Time": "10:15",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "68.85",
+            "3"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoDoor Dash)",
+            "Checks(Auxilio MutuoDoor Dash)"
+        ]
+    },
+    {
+        "Time": "6:45",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "13.35",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoUber Eats)",
+            "Checks(Auxilio MutuoUber Eats)"
+        ]
+    },
+    {
+        "Time": "7:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "15.20",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoUber Eats)",
+            "Checks(Auxilio MutuoUber Eats)"
+        ]
+    },
+    {
+        "Time": "8:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "12.40",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoUber Eats)",
+            "Checks(Auxilio MutuoUber Eats)"
+        ]
+    },
+    {
+        "Time": "8:15",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "46.05",
+            "3"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoUber Eats)",
+            "Checks(Auxilio MutuoUber Eats)"
+        ]
+    },
+    {
+        "Time": "8:30",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "19.75",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoUber Eats)",
+            "Checks(Auxilio MutuoUber Eats)"
+        ]
+    },
+    {
+        "Time": "8:45",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "14.20",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoUber Eats)",
+            "Checks(Auxilio MutuoUber Eats)"
+        ]
+    },
+    {
+        "Time": "9:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "42.55",
+            "3"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoUber Eats)",
+            "Checks(Auxilio MutuoUber Eats)"
+        ]
+    },
+    {
+        "Time": "9:30",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "14.00",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoUber Eats)",
+            "Checks(Auxilio MutuoUber Eats)"
+        ]
+    },
+    {
+        "Time": "9:45",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "52.85",
+            "2"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoUber Eats)",
+            "Checks(Auxilio MutuoUber Eats)"
+        ]
+    },
+    {
+        "Time": "10:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "21.25",
+            "2"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoUber Eats)",
+            "Checks(Auxilio MutuoUber Eats)"
+        ]
+    },
+    {
+        "Time": "10:15",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "20.50",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoUber Eats)",
+            "Checks(Auxilio MutuoUber Eats)"
+        ]
+    },
+    {
+        "Time": "10:45",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "11.80",
+            "2"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoUber Eats)",
+            "Checks(Auxilio MutuoUber Eats)"
+        ]
+    },
+    {
+        "Time": "14:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "5.80",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "14:15",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "17.95",
+            "2"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "14:30",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "35.20",
+            "5"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "14:45",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "31.90",
+            "4"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "15:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "19.75",
+            "2"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "15:15",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "12.50",
+            "2"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "15:30",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "25.95",
+            "3"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "15:45",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "18.35",
+            "2"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "16:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "52.85",
+            "4"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "16:30",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "70.95",
+            "7"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "16:45",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "62.60",
+            "7"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "17:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "8.50",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "17:15",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "11.65",
+            "3"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "17:30",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "70.05",
+            "6"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "17:45",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "59.95",
+            "2"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "14:15",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "11.40",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoDoor Dash)",
+            "Checks(Auxilio MutuoDoor Dash)"
+        ]
+    },
+    {
+        "Time": "14:45",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "11.20",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoDoor Dash)",
+            "Checks(Auxilio MutuoDoor Dash)"
+        ]
+    },
+    {
+        "Time": "15:45",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "9.45",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoDoor Dash)",
+            "Checks(Auxilio MutuoDoor Dash)"
+        ]
+    },
+    {
+        "Time": "16:30",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "5.15",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoDoor Dash)",
+            "Checks(Auxilio MutuoDoor Dash)"
+        ]
+    },
+    {
+        "Time": "17:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "18.65",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoDoor Dash)",
+            "Checks(Auxilio MutuoDoor Dash)"
+        ]
+    },
+    {
+        "Time": "17:15",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "37.55",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoDoor Dash)",
+            "Checks(Auxilio MutuoDoor Dash)"
+        ]
+    },
+    {
+        "Time": "17:30",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "42.75",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoDoor Dash)",
+            "Checks(Auxilio MutuoDoor Dash)"
+        ]
+    },
+    {
+        "Time": "17:45",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "24.10",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoDoor Dash)",
+            "Checks(Auxilio MutuoDoor Dash)"
+        ]
+    },
+    {
+        "Time": "18:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "50.80",
+            "7"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "18:15",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "4.00",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "18:30",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "19.95",
+            "3"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "18:45",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "8.30",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "19:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "28.00",
+            "3"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "19:15",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "31.75",
+            "4"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "19:30",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "17.15",
+            "2"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "19:45",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "36.85",
+            "3"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "20:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "77.30",
+            "7"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "20:15",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "53.15",
+            "6"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "20:30",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "45.05",
+            "4"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "20:45",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "16.90",
+            "2"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "21:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "23.45",
+            "3"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "21:15",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "38.90",
+            "5"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "21:30",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "23.25",
+            "4"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "21:45",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "18.60",
+            "3"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "22:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "65.95",
+            "8"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "22:15",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "58.00",
+            "9"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "22:30",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "43.75",
+            "7"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "22:45",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "25.80",
+            "2"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "23:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "0.00",
+            "6"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "23:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "0.00",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoMarkOut)",
+            "Checks(Auxilio MutuoMarkOut)"
+        ]
+    },
+    {
+        "Time": "18:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "18.35",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoDoor Dash)",
+            "Checks(Auxilio MutuoDoor Dash)"
+        ]
+    },
+    {
+        "Time": "20:30",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "13.25",
+            "2"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoDoor Dash)",
+            "Checks(Auxilio MutuoDoor Dash)"
+        ]
+    },
+    {
+        "Time": "21:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "35.95",
+            "2"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoDoor Dash)",
+            "Checks(Auxilio MutuoDoor Dash)"
+        ]
+    },
+    {
+        "Time": "21:30",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "6.40",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoDoor Dash)",
+            "Checks(Auxilio MutuoDoor Dash)"
+        ]
+    },
+    {
+        "Time": "18:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "13.30",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoUber Eats)",
+            "Checks(Auxilio MutuoUber Eats)"
+        ]
+    },
+    {
+        "Time": "20:30",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "6.95",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoUber Eats)",
+            "Checks(Auxilio MutuoUber Eats)"
+        ]
+    },
+    {
+        "Time": "22:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "11.70",
+            "2"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoUber Eats)",
+            "Checks(Auxilio MutuoUber Eats)"
+        ]
+    },
+    {
+        "Time": "11:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "23.80",
+            "3"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "11:15",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "13.30",
+            "2"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "11:45",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "24.90",
+            "3"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "12:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "37.25",
+            "5"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "12:15",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "16.85",
+            "2"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "12:30",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "25.45",
+            "2"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "12:45",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "25.10",
+            "2"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "13:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "15.90",
+            "2"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "13:15",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "10.45",
+            "2"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "13:30",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "23.68",
+            "6"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "13:45",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "21.40",
+            "3"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoStarbucks Cafe)",
+            "Checks(Auxilio MutuoStarbucks Cafe)"
+        ]
+    },
+    {
+        "Time": "13:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "32.30",
+            "2"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoDoor Dash)",
+            "Checks(Auxilio MutuoDoor Dash)"
+        ]
+    },
+    {
+        "Time": "11:0",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "15.25",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoUber Eats)",
+            "Checks(Auxilio MutuoUber Eats)"
+        ]
+    },
+    {
+        "Time": "11:30",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "0.00",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoUber Eats)",
+            "Checks(Auxilio MutuoUber Eats)"
+        ]
+    },
+    {
+        "Time": "11:15",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "0.00",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoUber Eats)",
+            "Checks(Auxilio MutuoUber Eats)"
+        ]
+    },
+    {
+        "Time": "12:15",
+        "Date": "21/2/2026",
+        "Data Point": [
+            "12.00",
+            "1"
+        ],
+        "Data Type": [
+            "sales",
+            "checks"
+        ],
+        "Data Stream Name": [
+            "Sales(Auxilio MutuoUber Eats)",
+            "Checks(Auxilio MutuoUber Eats)"
+        ]
+    },
+    {
+        "Time": "7:15",
+        "Date": "21/2/2026",
+        "Data Point": "32",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "7:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "9:0",
+        "Date": "21/2/2026",
+        "Data Point": "33",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "9:15",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "10:15",
+        "Date": "21/2/2026",
+        "Data Point": "12",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "10:30",
+        "Date": "21/2/2026",
+        "Data Point": "13",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "12:45",
+        "Date": "21/2/2026",
+        "Data Point": "8",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "13:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "14:30",
+        "Date": "21/2/2026",
+        "Data Point": "11",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "16:30",
+        "Date": "21/2/2026",
+        "Data Point": "8",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "17:30",
+        "Date": "21/2/2026",
+        "Data Point": "27",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "17:45",
+        "Date": "21/2/2026",
+        "Data Point": "7",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "18:0",
+        "Date": "21/2/2026",
+        "Data Point": "27",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "20:45",
+        "Date": "21/2/2026",
+        "Data Point": "7",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "21:45",
+        "Date": "21/2/2026",
+        "Data Point": "9",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "6:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "6:45",
+        "Date": "21/2/2026",
+        "Data Point": "8",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "6:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoTEA & SHAKEN)"
+    },
+    {
+        "Time": "6:45",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "6:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "6:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "7:0",
+        "Date": "21/2/2026",
+        "Data Point": "21",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "7:0",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "7:0",
+        "Date": "21/2/2026",
+        "Data Point": "6",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "6:30",
+        "Date": "21/2/2026",
+        "Data Point": "4",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "6:30",
+        "Date": "21/2/2026",
+        "Data Point": "17",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "6:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "6:30",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "6:30",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "7:0",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "7:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "7:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "7:15",
+        "Date": "21/2/2026",
+        "Data Point": "6",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "7:15",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "7:15",
+        "Date": "21/2/2026",
+        "Data Point": "4",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "7:15",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "7:15",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "7:30",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "7:30",
+        "Date": "21/2/2026",
+        "Data Point": "17",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "7:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoPACKAGED FOOD)"
+    },
+    {
+        "Time": "7:30",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "7:30",
+        "Date": "21/2/2026",
+        "Data Point": "6",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "7:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoTEA & SHAKEN)"
+    },
+    {
+        "Time": "7:45",
+        "Date": "21/2/2026",
+        "Data Point": "4",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "7:45",
+        "Date": "21/2/2026",
+        "Data Point": "13",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "7:45",
+        "Date": "21/2/2026",
+        "Data Point": "4",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "7:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "7:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoTEA & SHAKEN)"
+    },
+    {
+        "Time": "8:0",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "8:0",
+        "Date": "21/2/2026",
+        "Data Point": "10",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "8:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "8:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "8:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "8:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "8:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoTEA & SHAKEN)"
+    },
+    {
+        "Time": "8:15",
+        "Date": "21/2/2026",
+        "Data Point": "8",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "8:15",
+        "Date": "21/2/2026",
+        "Data Point": "22",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "8:15",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "8:15",
+        "Date": "21/2/2026",
+        "Data Point": "5",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "8:15",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBREWED COFFEE)"
+    },
+    {
+        "Time": "8:15",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoPACKAGED FOOD)"
+    },
+    {
+        "Time": "8:30",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "8:30",
+        "Date": "21/2/2026",
+        "Data Point": "15",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "8:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "8:30",
+        "Date": "21/2/2026",
+        "Data Point": "5",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "8:30",
+        "Date": "21/2/2026",
+        "Data Point": "5",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "8:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "8:45",
+        "Date": "21/2/2026",
+        "Data Point": "7",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "8:45",
+        "Date": "21/2/2026",
+        "Data Point": "23",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "8:45",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "8:45",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "9:0",
+        "Date": "21/2/2026",
+        "Data Point": "7",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "9:0",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "9:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "9:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoTEA & SHAKEN)"
+    },
+    {
+        "Time": "9:0",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "9:0",
+        "Date": "21/2/2026",
+        "Data Point": "5",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "9:15",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "9:15",
+        "Date": "21/2/2026",
+        "Data Point": "10",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "9:15",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "9:30",
+        "Date": "21/2/2026",
+        "Data Point": "4",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "9:30",
+        "Date": "21/2/2026",
+        "Data Point": "14",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "9:30",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "9:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "9:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "9:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "9:45",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoTEA & SHAKEN)"
+    },
+    {
+        "Time": "9:45",
+        "Date": "21/2/2026",
+        "Data Point": "16",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "9:45",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "9:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "9:45",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "9:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBREWED COFFEE)"
+    },
+    {
+        "Time": "10:15",
+        "Date": "21/2/2026",
+        "Data Point": "25",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "10:15",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "10:15",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoTEA & SHAKEN)"
+    },
+    {
+        "Time": "10:15",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "10:15",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBREWED COFFEE)"
+    },
+    {
+        "Time": "10:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoTEA & SHAKEN)"
+    },
+    {
+        "Time": "10:0",
+        "Date": "21/2/2026",
+        "Data Point": "8",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "10:0",
+        "Date": "21/2/2026",
+        "Data Point": "4",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "10:0",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "10:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "10:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "10:30",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "10:30",
+        "Date": "21/2/2026",
+        "Data Point": "5",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "10:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "10:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSERVEWARE)"
+    },
+    {
+        "Time": "10:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "10:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "10:45",
+        "Date": "21/2/2026",
+        "Data Point": "4",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "10:45",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "11:0",
+        "Date": "21/2/2026",
+        "Data Point": "5",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "11:0",
+        "Date": "21/2/2026",
+        "Data Point": "22",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "11:0",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "11:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBREWED COFFEE)"
+    },
+    {
+        "Time": "11:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "11:0",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "11:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoPACKAGED FOOD)"
+    },
+    {
+        "Time": "11:15",
+        "Date": "21/2/2026",
+        "Data Point": "-1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "11:15",
+        "Date": "21/2/2026",
+        "Data Point": "-3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "11:15",
+        "Date": "21/2/2026",
+        "Data Point": "-1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "11:15",
+        "Date": "21/2/2026",
+        "Data Point": "-1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "11:30",
+        "Date": "21/2/2026",
+        "Data Point": "0",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "11:30",
+        "Date": "21/2/2026",
+        "Data Point": "0",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "11:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBREWED COFFEE)"
+    },
+    {
+        "Time": "11:30",
+        "Date": "21/2/2026",
+        "Data Point": "-1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "11:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "11:45",
+        "Date": "21/2/2026",
+        "Data Point": "9",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "11:45",
+        "Date": "21/2/2026",
+        "Data Point": "4",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "11:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "12:0",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "12:0",
+        "Date": "21/2/2026",
+        "Data Point": "8",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "12:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "12:0",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoPACKAGED FOOD)"
+    },
+    {
+        "Time": "12:15",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "12:15",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "12:15",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "12:15",
+        "Date": "21/2/2026",
+        "Data Point": "4",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "12:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "12:30",
+        "Date": "21/2/2026",
+        "Data Point": "8",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "12:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "12:30",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "12:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "12:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "12:45",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "12:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "12:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoPACKAGED FOOD)"
+    },
+    {
+        "Time": "13:0",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoTEA & SHAKEN)"
+    },
+    {
+        "Time": "13:0",
+        "Date": "21/2/2026",
+        "Data Point": "11",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "13:0",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "13:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "13:0",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "13:15",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "13:15",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "13:15",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "13:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoRETAIL COFFEE)"
+    },
+    {
+        "Time": "13:30",
+        "Date": "21/2/2026",
+        "Data Point": "10",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "13:30",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoTEA & SHAKEN)"
+    },
+    {
+        "Time": "13:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "13:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "13:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoPACKAGED FOOD)"
+    },
+    {
+        "Time": "13:30",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "13:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "13:45",
+        "Date": "21/2/2026",
+        "Data Point": "6",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "13:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "13:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "13:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "14:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "14:0",
+        "Date": "21/2/2026",
+        "Data Point": "5",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "14:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "14:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "14:15",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "14:15",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "14:15",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "14:15",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "14:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "14:30",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "14:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoPACKAGED FOOD)"
+    },
+    {
+        "Time": "14:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "14:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "14:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "14:45",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "14:45",
+        "Date": "21/2/2026",
+        "Data Point": "10",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "14:45",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "14:45",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "15:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoTEA & SHAKEN)"
+    },
+    {
+        "Time": "15:0",
+        "Date": "21/2/2026",
+        "Data Point": "8",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "15:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "15:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "15:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "15:15",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoTEA & SHAKEN)"
+    },
+    {
+        "Time": "15:15",
+        "Date": "21/2/2026",
+        "Data Point": "4",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "15:15",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "15:15",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "15:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "15:30",
+        "Date": "21/2/2026",
+        "Data Point": "9",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "15:30",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "15:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoTEA & SHAKEN)"
+    },
+    {
+        "Time": "15:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "15:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoPACKAGED FOOD)"
+    },
+    {
+        "Time": "15:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "15:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "15:45",
+        "Date": "21/2/2026",
+        "Data Point": "5",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "15:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "15:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "15:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "16:0",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "16:0",
+        "Date": "21/2/2026",
+        "Data Point": "14",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "16:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "16:0",
+        "Date": "21/2/2026",
+        "Data Point": "9",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "16:15",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "16:15",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "16:30",
+        "Date": "21/2/2026",
+        "Data Point": "28",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "16:30",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoPACKAGED FOOD)"
+    },
+    {
+        "Time": "16:30",
+        "Date": "21/2/2026",
+        "Data Point": "6",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "16:30",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "16:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "16:45",
+        "Date": "21/2/2026",
+        "Data Point": "9",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "16:45",
+        "Date": "21/2/2026",
+        "Data Point": "16",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "16:45",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "16:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "17:0",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "17:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "17:0",
+        "Date": "21/2/2026",
+        "Data Point": "10",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "17:0",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoTEA & SHAKEN)"
+    },
+    {
+        "Time": "17:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "17:15",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "17:15",
+        "Date": "21/2/2026",
+        "Data Point": "7",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "17:15",
+        "Date": "21/2/2026",
+        "Data Point": "4",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "17:15",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "17:15",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "17:30",
+        "Date": "21/2/2026",
+        "Data Point": "6",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "17:30",
+        "Date": "21/2/2026",
+        "Data Point": "6",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "17:30",
+        "Date": "21/2/2026",
+        "Data Point": "4",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "17:30",
+        "Date": "21/2/2026",
+        "Data Point": "7",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "17:30",
+        "Date": "21/2/2026",
+        "Data Point": "5",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "17:45",
+        "Date": "21/2/2026",
+        "Data Point": "6",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "17:45",
+        "Date": "21/2/2026",
+        "Data Point": "23",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "17:45",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "17:45",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "18:0",
+        "Date": "21/2/2026",
+        "Data Point": "7",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "18:0",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "18:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "18:0",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "18:0",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "18:15",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "18:15",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "18:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "18:30",
+        "Date": "21/2/2026",
+        "Data Point": "5",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "18:30",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "18:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "18:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "18:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "18:45",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "18:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "19:0",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "19:0",
+        "Date": "21/2/2026",
+        "Data Point": "12",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "19:0",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "19:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "19:0",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoTEA & SHAKEN)"
+    },
+    {
+        "Time": "19:15",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "19:15",
+        "Date": "21/2/2026",
+        "Data Point": "10",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "19:15",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "19:15",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoTEA & SHAKEN)"
+    },
+    {
+        "Time": "19:15",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "19:30",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "19:30",
+        "Date": "21/2/2026",
+        "Data Point": "7",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "19:30",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "19:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "19:45",
+        "Date": "21/2/2026",
+        "Data Point": "12",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "19:45",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "19:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "19:45",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "19:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "20:0",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "20:0",
+        "Date": "21/2/2026",
+        "Data Point": "27",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "20:0",
+        "Date": "21/2/2026",
+        "Data Point": "6",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "20:0",
+        "Date": "21/2/2026",
+        "Data Point": "7",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "20:0",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "20:15",
+        "Date": "21/2/2026",
+        "Data Point": "5",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "20:15",
+        "Date": "21/2/2026",
+        "Data Point": "15",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "20:15",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoPACKAGED FOOD)"
+    },
+    {
+        "Time": "20:15",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "20:15",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "20:15",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "20:15",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoTEA & SHAKEN)"
+    },
+    {
+        "Time": "20:30",
+        "Date": "21/2/2026",
+        "Data Point": "5",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "20:30",
+        "Date": "21/2/2026",
+        "Data Point": "22",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "20:30",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "20:30",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "20:30",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "20:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoTEA & SHAKEN)"
+    },
+    {
+        "Time": "20:45",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "20:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "20:45",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "21:0",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "21:0",
+        "Date": "21/2/2026",
+        "Data Point": "10",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "21:0",
+        "Date": "21/2/2026",
+        "Data Point": "5",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "21:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "21:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "21:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoPACKAGED FOOD)"
+    },
+    {
+        "Time": "21:15",
+        "Date": "21/2/2026",
+        "Data Point": "5",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "21:15",
+        "Date": "21/2/2026",
+        "Data Point": "17",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "21:15",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoTEA & SHAKEN)"
+    },
+    {
+        "Time": "21:15",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "21:15",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "21:30",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "21:30",
+        "Date": "21/2/2026",
+        "Data Point": "8",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "21:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "21:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoTEA & SHAKEN)"
+    },
+    {
+        "Time": "21:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "21:45",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "21:45",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "21:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "22:15",
+        "Date": "21/2/2026",
+        "Data Point": "5",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "22:15",
+        "Date": "21/2/2026",
+        "Data Point": "16",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "22:15",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "22:0",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "22:0",
+        "Date": "21/2/2026",
+        "Data Point": "22",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "22:0",
+        "Date": "21/2/2026",
+        "Data Point": "4",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "22:0",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoPACKAGED FOOD)"
+    },
+    {
+        "Time": "22:0",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "22:0",
+        "Date": "21/2/2026",
+        "Data Point": "4",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "22:30",
+        "Date": "21/2/2026",
+        "Data Point": "4",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "22:30",
+        "Date": "21/2/2026",
+        "Data Point": "10",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "22:30",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "22:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoPACKAGED FOOD)"
+    },
+    {
+        "Time": "22:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "22:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBAKERY)"
+    },
+    {
+        "Time": "22:30",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoTEA & SHAKEN)"
+    },
+    {
+        "Time": "22:15",
+        "Date": "21/2/2026",
+        "Data Point": "3",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "22:15",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoSANDWICH/PREPARED FOOD)"
+    },
+    {
+        "Time": "22:15",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoPACKAGED FOOD)"
+    },
+    {
+        "Time": "22:45",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoESPRESSO)"
+    },
+    {
+        "Time": "22:45",
+        "Date": "21/2/2026",
+        "Data Point": "9",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    },
+    {
+        "Time": "22:45",
+        "Date": "21/2/2026",
+        "Data Point": "2",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "22:45",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoBLENDED BEVERAGES)"
+    },
+    {
+        "Time": "23:0",
+        "Date": "21/2/2026",
+        "Data Point": "1",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoOTHER BEVERAGES)"
+    },
+    {
+        "Time": "23:0",
+        "Date": "21/2/2026",
+        "Data Point": "5",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoTEA & SHAKEN)"
+    },
+    {
+        "Time": "23:0",
+        "Date": "21/2/2026",
+        "Data Point": "6",
+        "Data Type": "sales count",
+        "Data Stream Name": "Sales Count(Auxilio MutuoMODIFIERS)"
+    }
+]

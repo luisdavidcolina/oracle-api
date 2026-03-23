@@ -1,0 +1,263 @@
+[
+  {
+    "num": 39,
+    "name": "GR Cappuccino",
+    "name2": "Cappuccino Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 21,
+    "famGrpName": "Espresso Cappuccino"
+  },
+  {
+    "num": 40,
+    "name": "SH Latte",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 41,
+    "name": "TL Latte",
+    "name2": "Latte Alto",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 42,
+    "name": "GR Latte",
+    "name2": "Latte Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 47,
+    "name": "GR Mocha",
+    "name2": "Mocha Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 28,
+    "famGrpName": "Espresso Mocha"
+  },
+  {
+    "num": 95,
+    "name": "GR Americano",
+    "name2": "Americano Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 19,
+    "famGrpName": "Espresso Americano"
+  },
+  {
+    "num": 109891,
+    "name": "Whipped Cream",
+    "name2": "Whipped Cream",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 133,
+    "famGrpName": "Confection Sweet Add-On Option"
+  },
+  {
+    "num": 109900,
+    "name": "Foam",
+    "name2": "Foam",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 209,
+    "famGrpName": "Hot Foam Preparation Option"
+  },
+  {
+    "num": 109917,
+    "name": "Vanilla Syrup",
+    "name2": "Vanilla Syrup",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 138,
+    "famGrpName": "Confection Syrup Option"
+  },
+  {
+    "num": 109920,
+    "name": "Mocha Sauce",
+    "name2": "Mocha Sauce",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 135,
+    "famGrpName": "Confection Sweet Sauce Option"
+  },
+  {
+    "num": 110086,
+    "name": "Whole Milk",
+    "name2": "Whole Milk",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 207,
+    "famGrpName": "Milk Base Option"
+  },
+  {
+    "num": 126198,
+    "name": "GR Caramel Macchiato",
+    "name2": "Caramel Macchiato Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 27,
+    "famGrpName": "Espresso Macchiato"
+  },
+  {
+    "num": 148690,
+    "name": "GR White Mocha",
+    "name2": "Mocha Blanco Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 28,
+    "famGrpName": "Espresso Mocha"
+  },
+  {
+    "num": 189840,
+    "name": "White Chocolate Mocha Sauce",
+    "name2": "White Chocolate Mocha Sauce",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 135,
+    "famGrpName": "Confection Sweet Sauce Option"
+  },
+  {
+    "num": 11001828,
+    "name": "Caramel Drizzle",
+    "name2": "Caramel Drizzle",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 133,
+    "famGrpName": "Confection Sweet Add-On Option"
+  },
+  {
+    "num": 11029735,
+    "name": "Signature Espresso",
+    "name2": "Signature Espresso",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 149,
+    "famGrpName": "Espresso Shot Option"
+  },
+  {
+    "num": 11031226,
+    "name": "Oatmeal",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 70,
+    "famGrpName": "Breakfast Cereal"
+  },
+  {
+    "num": 11056562,
+    "name": "Vanilla Almond Biscotti",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 60,
+    "famGrpName": "Bakery Cookie"
+  },
+  {
+    "num": 11086846,
+    "name": "Oat",
+    "name2": "Oat",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 207,
+    "famGrpName": "Milk Base Option"
+  },
+  {
+    "num": 11091892,
+    "name": "Starbucks Cup",
+    "name2": "Starbucks Cup",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 173,
+    "famGrpName": "Preparation Serveware Option"
+  },
+  {
+    "num": 11135372,
+    "name": "GR Iced Signature Brown Sugar Oat Shaken Espresso",
+    "name2": "Iced Brown Sugar Shaken Espresso Grande",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 20,
+    "famGrpName": "Espresso Blended Espresso"
+  },
+  {
+    "num": 11137878,
+    "name": "Brown Sugar Syrup",
+    "name2": "Brown Sugar Syrup",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 138,
+    "famGrpName": "Confection Syrup Option"
+  },
+  {
+    "num": 11150295,
+    "name": "GR Vanilla Latte",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 26,
+    "famGrpName": "Espresso Latte"
+  },
+  {
+    "num": 11152869,
+    "name": "Cream Cheese",
+    "name2": " ",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 141,
+    "famGrpName": "Dairy Spread Option"
+  },
+  {
+    "num": 11167575,
+    "name": "Plain Bagel",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 54,
+    "famGrpName": "Bakery Bagel"
+  },
+  {
+    "num": 11176918,
+    "name": "Café Con Leche",
+    "name2": " ",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11176919,
+    "name": "Cortadito",
+    "name2": "Cortado",
+    "majGrpNum": 2,
+    "majGrpName": "Beverage",
+    "famGrpNum": 16,
+    "famGrpName": "Coffee Brewed Coffee"
+  },
+  {
+    "num": 11177421,
+    "name": "Yogurt Parfait",
+    "name2": " ",
+    "majGrpNum": 1,
+    "majGrpName": "Food",
+    "famGrpNum": 74,
+    "famGrpName": "Breakfast Yogurt"
+  },
+  {
+    "num": 999999999,
+    "name": "999",
+    "name2": "999",
+    "majGrpNum": 5,
+    "majGrpName": "Modifier",
+    "famGrpNum": 174,
+    "famGrpName": "Preparation Serving Option"
+  }
+]

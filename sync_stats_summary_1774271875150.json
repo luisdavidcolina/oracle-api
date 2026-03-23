@@ -1,0 +1,47 @@
+[
+  {
+    "locRef": "29402",
+    "name": "zPUR Test Lab",
+    "normalizedName": "zpurtestlab",
+    "matchedLocationKey": "zpurtestlab",
+    "datastreamMatch": false,
+    "ok": false,
+    "error": "ERROR: STATUS CODE NOT EXPECTED : 401 | BODY: {\"error\":\"OAuth error: The access token is invalid\"}"
+  },
+  {
+    "locRef": "4000003",
+    "name": "zPUR PS Test Lab",
+    "normalizedName": "zpurpstestlab",
+    "matchedLocationKey": "zpurpstestlab",
+    "datastreamMatch": false,
+    "ok": false,
+    "error": "ERROR: STATUS CODE NOT EXPECTED : 401 | BODY: {\"error\":\"OAuth error: The access token is invalid\"}"
+  },
+  {
+    "locRef": "4000002",
+    "name": "zSBUX PUR Lab",
+    "normalizedName": "zsbuxpurlab",
+    "matchedLocationKey": "zsbuxpurlab",
+    "datastreamMatch": false,
+    "ok": false,
+    "error": "ERROR: STATUS CODE NOT EXPECTED : 401 | BODY: {\"error\":\"OAuth error: The access token is invalid\"}"
+  },
+  {
+    "locRef": "4000004",
+    "name": "zPUR OPS Training",
+    "normalizedName": "zpuropstraining",
+    "matchedLocationKey": "zpuropstraining",
+    "datastreamMatch": false,
+    "ok": false,
+    "error": "ERROR: STATUS CODE NOT EXPECTED : 401 | BODY: {\"error\":\"OAuth error: The access token is invalid\"}"
+  },
+  {
+    "locRef": "99999",
+    "name": "EMM Test Lab PUR",
+    "normalizedName": "emmtestlabpur",
+    "matchedLocationKey": "emmtestlabpur",
+    "datastreamMatch": false,
+    "ok": false,
+    "error": "ERROR: STATUS CODE NOT EXPECTED : 401 | BODY: {\"error\":\"OAuth error: The access token is invalid\"}"
+  }
+]

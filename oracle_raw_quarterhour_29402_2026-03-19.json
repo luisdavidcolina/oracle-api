@@ -1,0 +1,66 @@
+{
+  "locRef": "29402",
+  "busDt": "2026-03-19",
+  "revenueCenters": [
+    {
+      "rvcNum": 1,
+      "quarterHours": [
+        {
+          "qtrHrNum": 50,
+          "busHrNum": 12,
+          "dpName": "Lunch",
+          "netSlsTtl": 66.5,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "chngInGrndTtl": 71.16,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 66.5,
+          "taxCollTtl": 4.66,
+          "chkCnt": 1,
+          "chkOpnTtl": 71.16,
+          "chkOpnCnt": 1,
+          "chkClsdTtl": 71.16,
+          "chkClsdCnt": 1
+        },
+        {
+          "qtrHrNum": 51,
+          "busHrNum": 12,
+          "dpName": "Lunch",
+          "netSlsTtl": 9.5,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "chngInGrndTtl": 10.18,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 9.5,
+          "taxCollTtl": 0.68,
+          "chkCnt": 2,
+          "errCorTtl": 4.75,
+          "errCorCnt": 1,
+          "chkOpnTtl": 10.18,
+          "chkOpnCnt": 2,
+          "chkClsdTtl": 10.18,
+          "chkClsdCnt": 2
+        },
+        {
+          "qtrHrNum": 52,
+          "busHrNum": 12,
+          "dpName": "Lunch",
+          "netSlsTtl": 41.69,
+          "itmDscTtl": -19.56,
+          "svcTtl": 0,
+          "chngInGrndTtl": 64.16,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 41.69,
+          "taxCollTtl": 2.91,
+          "chkCnt": 3,
+          "errCorTtl": 4.15,
+          "errCorCnt": 1,
+          "chkOpnTtl": 44.6,
+          "chkOpnCnt": 3,
+          "chkClsdTtl": 44.6,
+          "chkClsdCnt": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "locRef": "29402",
+  "busDt": "2026-03-20",
+  "revenueCenters": [
+    {
+      "rvcNum": 1,
+      "quarterHours": [
+        {
+          "qtrHrNum": 55,
+          "busHrNum": 13,
+          "dpName": "Lunch",
+          "netSlsTtl": 9.15,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "chngInGrndTtl": 9.79,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 9.15,
+          "taxCollTtl": 0.64,
+          "chkCnt": 2,
+          "errCorTtl": 11.6,
+          "errCorCnt": 1,
+          "chkOpnTtl": 9.79,
+          "chkOpnCnt": 2,
+          "chkClsdTtl": 9.79,
+          "chkClsdCnt": 2
+        },
+        {
+          "qtrHrNum": 67,
+          "busHrNum": 16,
+          "dpName": "Afternoon",
+          "netSlsTtl": 30.05,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "chngInGrndTtl": 32.15,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 30.05,
+          "taxCollTtl": 2.1,
+          "chkCnt": 12,
+          "errCorTtl": 27.75,
+          "errCorCnt": 6,
+          "chkOpnTtl": 32.15,
+          "chkOpnCnt": 12,
+          "chkClsdTtl": 32.15,
+          "chkClsdCnt": 12
+        },
+        {
+          "qtrHrNum": 77,
+          "busHrNum": 19,
+          "dpName": "Evening",
+          "netSlsTtl": 0,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 0,
+          "taxCollTtl": 0,
+          "chkCnt": 0,
+          "transCnclTtl": 14.02,
+          "transCnclCnt": 2,
+          "chkOpnTtl": 0,
+          "chkOpnCnt": 0,
+          "chkClsdTtl": 0,
+          "chkClsdCnt": 0
+        },
+        {
+          "qtrHrNum": 87,
+          "busHrNum": 21,
+          "dpName": "Evening",
+          "netSlsTtl": 0,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 0,
+          "taxCollTtl": 0,
+          "chkCnt": 0,
+          "transCnclCnt": 2,
+          "chkOpnTtl": 0,
+          "chkOpnCnt": 0,
+          "chkClsdTtl": 0,
+          "chkClsdCnt": 0
+        },
+        {
+          "qtrHrNum": 88,
+          "busHrNum": 21,
+          "dpName": "Evening",
+          "netSlsTtl": 0,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 0,
+          "taxCollTtl": 0,
+          "chkCnt": 2,
+          "errCorTtl": 10.9,
+          "errCorCnt": 2,
+          "chkOpnTtl": 0,
+          "chkOpnCnt": 2,
+          "chkClsdTtl": 0,
+          "chkClsdCnt": 6
+        }
+      ]
+    },
+    {
+      "rvcNum": 2,
+      "quarterHours": [
+        {
+          "qtrHrNum": 73,
+          "busHrNum": 18,
+          "dpName": "Evening",
+          "netSlsTtl": 25.45,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "chngInGrndTtl": 27.22,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 25.45,
+          "taxCollTtl": 1.77,
+          "chkCnt": 2,
+          "errCorTtl": 4.75,
+          "errCorCnt": 1,
+          "chkOpnTtl": 27.22,
+          "chkOpnCnt": 2,
+          "chkClsdTtl": 27.22,
+          "chkClsdCnt": 2
+        }
+      ]
+    },
+    {
+      "rvcNum": 4,
+      "quarterHours": [
+        {
+          "qtrHrNum": 70,
+          "busHrNum": 17,
+          "dpName": "Afternoon",
+          "netSlsTtl": 13.6,
+          "itmDscTtl": 0,
+          "svcTtl": 0,
+          "chngInGrndTtl": 14.56,
+          "nonTxblSlsTtl": 0,
+          "txblSlsTtl": 13.6,
+          "taxCollTtl": 0.96,
+          "chkCnt": 2,
+          "gstCnt": 2,
+          "chkOpnTtl": 14.56,
+          "chkOpnCnt": 2,
+          "chkClsdTtl": 14.56,
+          "chkClsdCnt": 2
+        }
+      ]
+    }
+  ]
+}

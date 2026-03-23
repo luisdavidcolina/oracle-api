@@ -1,0 +1,50 @@
+{
+  "locRef": "4000002",
+  "busDt": "2026-03-22",
+  "revenueCenters": [
+    {
+      "rvcNum": 1,
+      "quarterHours": [
+        {
+          "qtrHrNum": 16,
+          "busHrNum": 3,
+          "dpName": "Morning",
+          "menuItems": [
+            {
+              "miNum": 110086,
+              "prcLvlNum": 2,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11029735,
+              "prcLvlNum": 10,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 2
+            },
+            {
+              "miNum": 11091892,
+              "prcLvlNum": 2,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 0,
+              "slsCnt": 1
+            },
+            {
+              "miNum": 11176918,
+              "prcLvlNum": 2,
+              "otNum": 2,
+              "ocNum": 1,
+              "slsTtl": 4,
+              "slsCnt": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
